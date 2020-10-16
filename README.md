@@ -21,6 +21,8 @@ Content:
 
     control_node.py -> initializing the node for applying the Q-learning algorithm combined with Feedback control
 
-To run the code in gazebo simulator, you first have to export the model (burger) and roslaunch turtlebot3_world.launch file.
+To run the code in gazebo simulator, export the model (burger) and roslaunch turtlebot3_world.launch file.
 
 To run the code live on a physical TurtleBot, the ROS_MASTER_URI and ROS_HOSTNAME need to be set via the terminal by editing the ~/.bashrc script.
+
+After setting up the environment, rosrun the desired nodes!
