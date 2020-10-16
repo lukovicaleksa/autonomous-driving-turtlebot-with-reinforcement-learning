@@ -4,7 +4,7 @@ import numpy as np
 from math import *
 import matplotlib.pyplot as plt
 
-LOG_FILE_DIR = 'Log_learning_4'
+LOG_FILE_DIR = 'Log_learning'
 
 # Plot learning parameters
 def plot_learning(log_file):
