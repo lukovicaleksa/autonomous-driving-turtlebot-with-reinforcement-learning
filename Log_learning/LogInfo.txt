@@ -1,0 +1,4510 @@
+
+SIMULATION START ==> 07/09/2020 21:28:40
+
+
+---------------------------------------
+
+Episode 1 ==> CRASH {-0.18,-0.17,45.84}    07/09/2020 21:28:46
+episode time: 4.68 s (avg step: 0.22 s) 
+episode steps: 21 
+episode reward: -103.90 
+episode max | avg | min reward: 0.00 | -5.20 | -100.00 
+T = 24.000000 
+
+---------------------------------------
+
+Episode 2 ==> CRASH {-0.15,-0.19,46.01}    07/09/2020 21:28:53
+episode time: 4.57 s (avg step: 0.22 s) 
+episode steps: 21 
+episode reward: -103.90 
+episode max | avg | min reward: 0.00 | -5.20 | -100.00 
+T = 22.800000 
+
+---------------------------------------
+
+Episode 3 ==> CRASH {-0.16,-0.18,44.49}    07/09/2020 21:29:00
+episode time: 4.14 s (avg step: 0.22 s) 
+episode steps: 19 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -5.71 | -100.00 
+T = 21.660000 
+
+---------------------------------------
+
+Episode 4 ==> CRASH {0.71,2.44,55.74}    07/09/2020 21:30:10
+episode time: 46.37 s (avg step: 0.20 s) 
+episode steps: 230 
+episode reward: -119.30 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 20.577000 
+
+---------------------------------------
+
+Episode 5 ==> CRASH {-0.17,-0.18,58.28}    07/09/2020 21:30:17
+episode time: 4.14 s (avg step: 0.22 s) 
+episode steps: 19 
+episode reward: -103.00 
+episode max | avg | min reward: 0.00 | -5.72 | -100.00 
+T = 19.548150 
+
+---------------------------------------
+
+Episode 6 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 21:32:21
+episode time: 80.34 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -26.20 
+episode max | avg | min reward: 0.40 | -0.07 | -0.30 
+T = 18.570742 
+
+---------------------------------------
+
+Episode 7 ==> CRASH {-0.13,-0.20,55.01}    07/09/2020 21:32:29
+episode time: 5.20 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -105.40 
+episode max | avg | min reward: 0.00 | -4.58 | -100.00 
+T = 17.642205 
+
+---------------------------------------
+
+Episode 8 ==> CRASH {-0.13,-0.22,53.12}    07/09/2020 21:32:37
+episode time: 5.14 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -105.40 
+episode max | avg | min reward: 0.00 | -4.58 | -100.00 
+T = 16.760095 
+
+---------------------------------------
+
+Episode 9 ==> CRASH {-0.12,-0.22,4.62}    07/09/2020 21:32:44
+episode time: 4.54 s (avg step: 0.22 s) 
+episode steps: 21 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -5.18 | -100.00 
+T = 15.922090 
+
+---------------------------------------
+
+Episode 10 ==> CRASH {-0.18,-0.15,42.27}    07/09/2020 21:32:51
+episode time: 4.57 s (avg step: 0.22 s) 
+episode steps: 21 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -5.18 | -100.00 
+T = 15.125986 
+
+---------------------------------------
+
+Episode 11 ==> CRASH {-0.17,-0.19,14.26}    07/09/2020 21:33:00
+episode time: 5.17 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -104.80 
+episode max | avg | min reward: 0.00 | -4.56 | -100.00 
+T = 14.369687 
+
+---------------------------------------
+
+Episode 12 ==> CRASH {-0.17,-0.18,15.20}    07/09/2020 21:33:08
+episode time: 5.14 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -105.70 
+episode max | avg | min reward: 0.00 | -4.60 | -100.00 
+T = 13.651202 
+
+---------------------------------------
+
+Episode 13 ==> CRASH {-0.08,-0.23,21.99}    07/09/2020 21:33:14
+episode time: 4.17 s (avg step: 0.22 s) 
+episode steps: 19 
+episode reward: -101.80 
+episode max | avg | min reward: 0.00 | -5.66 | -100.00 
+T = 12.968642 
+
+---------------------------------------
+
+Episode 14 ==> CRASH {-0.07,-0.25,18.82}    07/09/2020 21:33:23
+episode time: 5.18 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -104.10 
+episode max | avg | min reward: 0.10 | -4.53 | -100.00 
+T = 12.320210 
+
+---------------------------------------
+
+Episode 15 ==> CRASH {-0.11,-0.22,2.48}    07/09/2020 21:33:30
+episode time: 4.97 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -104.20 
+episode max | avg | min reward: 0.00 | -4.74 | -100.00 
+T = 11.704199 
+
+---------------------------------------
+
+Episode 16 ==> CRASH {-0.17,-0.19,9.59}    07/09/2020 21:33:39
+episode time: 5.33 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -106.30 
+episode max | avg | min reward: 0.00 | -4.43 | -100.00 
+T = 11.118990 
+
+---------------------------------------
+
+Episode 17 ==> CRASH {-0.17,-0.20,22.50}    07/09/2020 21:33:46
+episode time: 4.94 s (avg step: 0.21 s) 
+episode steps: 23 
+episode reward: -105.10 
+episode max | avg | min reward: 0.00 | -4.78 | -100.00 
+T = 10.563040 
+
+---------------------------------------
+
+Episode 18 ==> CRASH {0.18,-0.91,-128.95}    07/09/2020 21:34:14
+episode time: 19.15 s (avg step: 0.20 s) 
+episode steps: 94 
+episode reward: -112.70 
+episode max | avg | min reward: 0.40 | -1.21 | -100.00 
+T = 10.034888 
+
+---------------------------------------
+
+Episode 19 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 21:36:18
+episode time: 80.34 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -23.00 
+episode max | avg | min reward: 0.40 | -0.06 | -0.30 
+T = 9.533144 
+
+---------------------------------------
+
+Episode 20 ==> CRASH {-0.17,-0.17,37.38}    07/09/2020 21:36:26
+episode time: 4.80 s (avg step: 0.22 s) 
+episode steps: 22 
+episode reward: -104.50 
+episode max | avg | min reward: 0.00 | -4.98 | -100.00 
+T = 9.056486 
+
+---------------------------------------
+
+Episode 21 ==> CRASH {-0.17,-0.19,32.79}    07/09/2020 21:36:34
+episode time: 4.75 s (avg step: 0.22 s) 
+episode steps: 22 
+episode reward: -104.50 
+episode max | avg | min reward: 0.00 | -4.98 | -100.00 
+T = 8.603662 
+
+---------------------------------------
+
+Episode 22 ==> CRASH {1.45,-1.90,-99.23}    07/09/2020 21:37:34
+episode time: 38.34 s (avg step: 0.20 s) 
+episode steps: 190 
+episode reward: -121.40 
+episode max | avg | min reward: 0.40 | -0.64 | -100.00 
+T = 8.173479 
+
+---------------------------------------
+
+Episode 23 ==> CRASH {-0.19,-0.17,17.86}    07/09/2020 21:37:42
+episode time: 5.14 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -105.70 
+episode max | avg | min reward: 0.00 | -4.60 | -100.00 
+T = 7.764805 
+
+---------------------------------------
+
+Episode 24 ==> CRASH {0.62,-2.43,-145.72}    07/09/2020 21:38:41
+episode time: 38.78 s (avg step: 0.20 s) 
+episode steps: 192 
+episode reward: -115.10 
+episode max | avg | min reward: 0.40 | -0.60 | -100.00 
+T = 7.376565 
+
+---------------------------------------
+
+Episode 25 ==> CRASH {-0.18,-0.18,48.47}    07/09/2020 21:38:49
+episode time: 5.15 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -106.00 
+episode max | avg | min reward: 0.00 | -4.61 | -100.00 
+T = 7.007737 
+
+---------------------------------------
+
+Episode 26 ==> CRASH {0.92,-0.18,-21.21}    07/09/2020 21:39:18
+episode time: 18.35 s (avg step: 0.20 s) 
+episode steps: 90 
+episode reward: -112.40 
+episode max | avg | min reward: 0.40 | -1.26 | -100.00 
+T = 6.657350 
+
+---------------------------------------
+
+Episode 27 ==> CRASH {0.90,-0.92,-42.09}    07/09/2020 21:39:51
+episode time: 20.95 s (avg step: 0.20 s) 
+episode steps: 103 
+episode reward: -110.30 
+episode max | avg | min reward: 0.40 | -1.08 | -100.00 
+T = 6.324482 
+
+---------------------------------------
+
+Episode 28 ==> CRASH {-0.18,-0.19,47.53}    07/09/2020 21:40:00
+episode time: 5.56 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -106.60 
+episode max | avg | min reward: 0.00 | -4.26 | -100.00 
+T = 6.008258 
+
+---------------------------------------
+
+Episode 29 ==> CRASH {-0.18,-0.17,39.47}    07/09/2020 21:40:09
+episode time: 5.36 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -106.30 
+episode max | avg | min reward: 0.00 | -4.43 | -100.00 
+T = 5.707845 
+
+---------------------------------------
+
+Episode 30 ==> CRASH {2.40,-0.72,-9.41}    07/09/2020 21:41:08
+episode time: 37.58 s (avg step: 0.20 s) 
+episode steps: 186 
+episode reward: -114.00 
+episode max | avg | min reward: 0.40 | -0.62 | -100.00 
+T = 5.422453 
+
+---------------------------------------
+
+Episode 31 ==> CRASH {-1.24,-0.21,110.63}    07/09/2020 21:43:12
+episode time: 79.79 s (avg step: 0.20 s) 
+episode steps: 397 
+episode reward: -123.70 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 5.151330 
+
+---------------------------------------
+
+Episode 32 ==> CRASH {-0.19,-0.18,41.65}    07/09/2020 21:43:19
+episode time: 5.39 s (avg step: 0.22 s) 
+episode steps: 25 
+episode reward: -106.60 
+episode max | avg | min reward: 0.00 | -4.44 | -100.00 
+T = 4.893764 
+
+---------------------------------------
+
+Episode 33 ==> CRASH {-0.17,-0.18,41.63}    07/09/2020 21:43:28
+episode time: 5.56 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -106.90 
+episode max | avg | min reward: 0.00 | -4.28 | -100.00 
+T = 4.649076 
+
+---------------------------------------
+
+Episode 34 ==> CRASH {-0.17,-0.18,41.82}    07/09/2020 21:43:38
+episode time: 5.55 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -106.90 
+episode max | avg | min reward: 0.00 | -4.28 | -100.00 
+T = 4.416622 
+
+---------------------------------------
+
+Episode 35 ==> CRASH {-0.18,-0.18,39.47}    07/09/2020 21:43:46
+episode time: 5.36 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -106.60 
+episode max | avg | min reward: 0.00 | -4.44 | -100.00 
+T = 4.195791 
+
+---------------------------------------
+
+Episode 36 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 21:45:55
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -23.50 
+episode max | avg | min reward: 0.40 | -0.06 | -0.30 
+T = 3.986001 
+
+---------------------------------------
+
+Episode 37 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 21:48:04
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -18.60 
+episode max | avg | min reward: 0.40 | -0.05 | -0.30 
+T = 3.786701 
+
+---------------------------------------
+
+Episode 38 ==> CRASH {-0.17,-0.18,15.29}    07/09/2020 21:48:12
+episode time: 5.41 s (avg step: 0.22 s) 
+episode steps: 25 
+episode reward: -106.30 
+episode max | avg | min reward: 0.00 | -4.43 | -100.00 
+T = 3.597366 
+
+---------------------------------------
+
+Episode 39 ==> CRASH {-0.18,-0.18,26.71}    07/09/2020 21:48:21
+episode time: 5.56 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -106.90 
+episode max | avg | min reward: 0.00 | -4.28 | -100.00 
+T = 3.417498 
+
+---------------------------------------
+
+Episode 40 ==> CRASH {0.04,-2.43,-165.03}    07/09/2020 21:49:22
+episode time: 40.36 s (avg step: 0.20 s) 
+episode steps: 200 
+episode reward: -105.60 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 3.246623 
+
+---------------------------------------
+
+Episode 41 ==> CRASH {-0.18,-0.18,37.23}    07/09/2020 21:49:29
+episode time: 5.36 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -106.30 
+episode max | avg | min reward: 0.00 | -4.43 | -100.00 
+T = 3.084292 
+
+---------------------------------------
+
+Episode 42 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 21:51:32
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -12.80 
+episode max | avg | min reward: 0.40 | -0.03 | -0.30 
+T = 2.930077 
+
+---------------------------------------
+
+Episode 43 ==> CRASH {-0.17,-0.17,21.38}    07/09/2020 21:51:41
+episode time: 5.59 s (avg step: 0.22 s) 
+episode steps: 26 
+episode reward: -106.90 
+episode max | avg | min reward: 0.00 | -4.28 | -100.00 
+T = 2.783573 
+
+---------------------------------------
+
+Episode 44 ==> CRASH {-0.18,-0.17,33.58}    07/09/2020 21:51:49
+episode time: 4.77 s (avg step: 0.22 s) 
+episode steps: 22 
+episode reward: -104.80 
+episode max | avg | min reward: 0.00 | -4.99 | -100.00 
+T = 2.644395 
+
+---------------------------------------
+
+Episode 45 ==> CRASH {-0.17,-0.17,30.91}    07/09/2020 21:51:56
+episode time: 4.36 s (avg step: 0.22 s) 
+episode steps: 20 
+episode reward: -103.30 
+episode max | avg | min reward: 0.00 | -5.44 | -100.00 
+T = 2.512175 
+
+---------------------------------------
+
+Episode 46 ==> CRASH {-0.17,-0.19,44.41}    07/09/2020 21:52:02
+episode time: 4.16 s (avg step: 0.22 s) 
+episode steps: 19 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -5.71 | -100.00 
+T = 2.386566 
+
+---------------------------------------
+
+Episode 47 ==> CRASH {-0.18,-0.17,39.66}    07/09/2020 21:52:09
+episode time: 5.36 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -106.30 
+episode max | avg | min reward: 0.00 | -4.43 | -100.00 
+T = 2.267238 
+
+---------------------------------------
+
+Episode 48 ==> CRASH {-0.19,-0.17,33.45}    07/09/2020 21:52:17
+episode time: 5.55 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -107.20 
+episode max | avg | min reward: -0.30 | -4.29 | -100.00 
+T = 2.153876 
+
+---------------------------------------
+
+Episode 49 ==> CRASH {-0.19,-0.17,35.48}    07/09/2020 21:52:27
+episode time: 5.76 s (avg step: 0.21 s) 
+episode steps: 27 
+episode reward: -106.80 
+episode max | avg | min reward: 0.10 | -4.11 | -100.00 
+T = 2.046182 
+
+---------------------------------------
+
+Episode 50 ==> CRASH {-0.18,-0.18,36.17}    07/09/2020 21:52:35
+episode time: 4.96 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -105.10 
+episode max | avg | min reward: 0.00 | -4.78 | -100.00 
+T = 1.943873 
+
+---------------------------------------
+
+Episode 51 ==> CRASH {-0.18,-0.17,36.06}    07/09/2020 21:52:41
+episode time: 4.16 s (avg step: 0.22 s) 
+episode steps: 19 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -5.71 | -100.00 
+T = 1.846679 
+
+---------------------------------------
+
+Episode 52 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 21:54:43
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -12.80 
+episode max | avg | min reward: 0.40 | -0.03 | -0.30 
+T = 1.754345 
+
+---------------------------------------
+
+Episode 53 ==> CRASH {1.26,-0.22,41.41}    07/09/2020 21:55:17
+episode time: 21.60 s (avg step: 0.20 s) 
+episode steps: 106 
+episode reward: -108.70 
+episode max | avg | min reward: 0.40 | -1.04 | -100.00 
+T = 1.666628 
+
+---------------------------------------
+
+Episode 54 ==> CRASH {-0.90,0.16,155.72}    07/09/2020 21:55:38
+episode time: 13.36 s (avg step: 0.21 s) 
+episode steps: 65 
+episode reward: -107.90 
+episode max | avg | min reward: 0.40 | -1.69 | -100.00 
+T = 1.583297 
+
+---------------------------------------
+
+Episode 55 ==> CRASH {-0.19,-0.18,47.29}    07/09/2020 21:55:44
+episode time: 3.76 s (avg step: 0.22 s) 
+episode steps: 17 
+episode reward: -101.80 
+episode max | avg | min reward: 0.00 | -6.36 | -100.00 
+T = 1.504132 
+
+---------------------------------------
+
+Episode 56 ==> CRASH {1.23,-0.23,45.87}    07/09/2020 21:56:16
+episode time: 20.76 s (avg step: 0.20 s) 
+episode steps: 102 
+episode reward: -107.40 
+episode max | avg | min reward: 0.40 | -1.06 | -100.00 
+T = 1.428925 
+
+---------------------------------------
+
+Episode 57 ==> CRASH {-0.23,-0.13,32.20}    07/09/2020 21:56:52
+episode time: 23.36 s (avg step: 0.20 s) 
+episode steps: 115 
+episode reward: -116.10 
+episode max | avg | min reward: 0.40 | -1.02 | -100.00 
+T = 1.357479 
+
+---------------------------------------
+
+Episode 58 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 21:58:51
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -31.40 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 1.289605 
+
+---------------------------------------
+
+Episode 59 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:00:55
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -9.90 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 1.225125 
+
+---------------------------------------
+
+Episode 60 ==> CRASH {-1.36,-0.07,-41.61}    07/09/2020 22:02:41
+episode time: 71.61 s (avg step: 0.20 s) 
+episode steps: 356 
+episode reward: -108.50 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 1.163869 
+
+---------------------------------------
+
+Episode 61 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:04:45
+episode time: 80.38 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -19.90 
+episode max | avg | min reward: 0.40 | -0.05 | -0.30 
+T = 1.105675 
+
+---------------------------------------
+
+Episode 62 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:06:48
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -7.70 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 1.050391 
+
+---------------------------------------
+
+Episode 63 ==> CRASH {-0.85,0.03,-128.75}    07/09/2020 22:07:10
+episode time: 13.60 s (avg step: 0.21 s) 
+episode steps: 66 
+episode reward: -110.70 
+episode max | avg | min reward: 0.40 | -1.70 | -100.00 
+T = 0.997872 
+
+---------------------------------------
+
+Episode 64 ==> CRASH {0.84,1.06,-60.11}    07/09/2020 22:08:40
+episode time: 57.74 s (avg step: 0.20 s) 
+episode steps: 287 
+episode reward: -114.40 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 0.947978 
+
+---------------------------------------
+
+Episode 65 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:10:47
+episode time: 80.38 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -3.90 
+episode max | avg | min reward: 0.40 | -0.01 | -0.30 
+T = 0.900579 
+
+---------------------------------------
+
+Episode 66 ==> CRASH {-0.84,1.18,130.12}    07/09/2020 22:11:23
+episode time: 22.41 s (avg step: 0.20 s) 
+episode steps: 110 
+episode reward: -110.30 
+episode max | avg | min reward: 0.40 | -1.01 | -100.00 
+T = 0.855550 
+
+---------------------------------------
+
+Episode 67 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:13:26
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -33.40 
+episode max | avg | min reward: 0.40 | -0.08 | -0.30 
+T = 0.812773 
+
+---------------------------------------
+
+Episode 68 ==> CRASH {-0.93,1.30,-74.34}    07/09/2020 22:14:50
+episode time: 55.02 s (avg step: 0.20 s) 
+episode steps: 273 
+episode reward: -108.70 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 0.772134 
+
+---------------------------------------
+
+Episode 69 ==> CRASH {-0.23,-0.11,59.92}    07/09/2020 22:15:00
+episode time: 6.16 s (avg step: 0.21 s) 
+episode steps: 29 
+episode reward: -108.10 
+episode max | avg | min reward: -0.30 | -3.86 | -100.00 
+T = 0.733528 
+
+---------------------------------------
+
+Episode 70 ==> CRASH {-0.85,-1.16,-160.05}    07/09/2020 22:16:17
+episode time: 48.56 s (avg step: 0.20 s) 
+episode steps: 241 
+episode reward: -133.40 
+episode max | avg | min reward: 0.40 | -0.56 | -100.00 
+T = 0.696851 
+
+---------------------------------------
+
+Episode 71 ==> CRASH {-0.23,-0.09,61.41}    07/09/2020 22:16:29
+episode time: 6.56 s (avg step: 0.21 s) 
+episode steps: 31 
+episode reward: -108.70 
+episode max | avg | min reward: -0.30 | -3.62 | -100.00 
+T = 0.662009 
+
+---------------------------------------
+
+Episode 72 ==> CRASH {0.17,-0.91,-56.56}    07/09/2020 22:16:54
+episode time: 15.95 s (avg step: 0.20 s) 
+episode steps: 78 
+episode reward: -110.80 
+episode max | avg | min reward: 0.40 | -1.44 | -100.00 
+T = 0.628908 
+
+---------------------------------------
+
+Episode 73 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:18:56
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -12.60 
+episode max | avg | min reward: 0.40 | -0.03 | -0.30 
+T = 0.597463 
+
+---------------------------------------
+
+Episode 74 ==> CRASH {-0.27,-0.02,98.18}    07/09/2020 22:20:23
+episode time: 58.60 s (avg step: 0.20 s) 
+episode steps: 291 
+episode reward: -115.60 
+episode max | avg | min reward: 0.40 | -0.40 | -100.00 
+T = 0.567590 
+
+---------------------------------------
+
+Episode 75 ==> CRASH {-0.88,1.24,129.08}    07/09/2020 22:21:02
+episode time: 24.96 s (avg step: 0.20 s) 
+episode steps: 123 
+episode reward: -111.70 
+episode max | avg | min reward: 0.40 | -0.92 | -100.00 
+T = 0.539210 
+
+---------------------------------------
+
+Episode 76 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:23:06
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -34.40 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.512250 
+
+---------------------------------------
+
+Episode 77 ==> CRASH {-1.05,2.37,-155.18}    07/09/2020 22:24:07
+episode time: 40.41 s (avg step: 0.20 s) 
+episode steps: 200 
+episode reward: -116.30 
+episode max | avg | min reward: 0.40 | -0.58 | -100.00 
+T = 0.486637 
+
+---------------------------------------
+
+Episode 78 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:26:08
+episode time: 80.37 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -23.50 
+episode max | avg | min reward: 0.40 | -0.06 | -0.30 
+T = 0.462305 
+
+---------------------------------------
+
+Episode 79 ==> CRASH {-2.43,-0.63,-82.97}    07/09/2020 22:28:01
+episode time: 74.20 s (avg step: 0.20 s) 
+episode steps: 369 
+episode reward: -108.60 
+episode max | avg | min reward: 0.40 | -0.30 | -100.00 
+T = 0.439190 
+
+---------------------------------------
+
+Episode 80 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:30:08
+episode time: 80.37 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -16.50 
+episode max | avg | min reward: 0.40 | -0.04 | -0.30 
+T = 0.417231 
+
+---------------------------------------
+
+Episode 81 ==> CRASH {0.26,-1.02,-76.87}    07/09/2020 22:30:36
+episode time: 18.81 s (avg step: 0.20 s) 
+episode steps: 92 
+episode reward: -110.10 
+episode max | avg | min reward: 0.40 | -1.21 | -100.00 
+T = 0.396369 
+
+---------------------------------------
+
+Episode 82 ==> CRASH {-1.34,1.20,-87.34}    07/09/2020 22:32:09
+episode time: 60.15 s (avg step: 0.20 s) 
+episode steps: 299 
+episode reward: -132.30 
+episode max | avg | min reward: 0.40 | -0.44 | -100.00 
+T = 0.376551 
+
+---------------------------------------
+
+Episode 83 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:34:16
+episode time: 80.34 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -16.60 
+episode max | avg | min reward: 0.40 | -0.04 | -0.30 
+T = 0.357723 
+
+---------------------------------------
+
+Episode 84 ==> CRASH {-0.84,1.17,130.23}    07/09/2020 22:34:53
+episode time: 21.80 s (avg step: 0.20 s) 
+episode steps: 107 
+episode reward: -109.30 
+episode max | avg | min reward: 0.40 | -1.03 | -100.00 
+T = 0.339837 
+
+---------------------------------------
+
+Episode 85 ==> CRASH {-2.46,0.58,-140.25}    07/09/2020 22:35:55
+episode time: 41.15 s (avg step: 0.20 s) 
+episode steps: 204 
+episode reward: -116.10 
+episode max | avg | min reward: 0.40 | -0.57 | -100.00 
+T = 0.322845 
+
+---------------------------------------
+
+Episode 86 ==> CRASH {1.24,-0.88,-60.98}    07/09/2020 22:36:38
+episode time: 27.78 s (avg step: 0.20 s) 
+episode steps: 137 
+episode reward: -112.10 
+episode max | avg | min reward: 0.40 | -0.82 | -100.00 
+T = 0.306703 
+
+---------------------------------------
+
+Episode 87 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:38:35
+episode time: 80.34 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -3.20 
+episode max | avg | min reward: 0.40 | -0.01 | -0.30 
+T = 0.291368 
+
+---------------------------------------
+
+Episode 88 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:40:38
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -23.90 
+episode max | avg | min reward: 0.40 | -0.06 | -0.30 
+T = 0.276799 
+
+---------------------------------------
+
+Episode 89 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:42:41
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -9.60 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 0.262959 
+
+---------------------------------------
+
+Episode 90 ==> CRASH {-2.62,-0.30,-75.34}    07/09/2020 22:43:56
+episode time: 47.00 s (avg step: 0.20 s) 
+episode steps: 233 
+episode reward: -110.30 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 0.249811 
+
+---------------------------------------
+
+Episode 91 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:46:06
+episode time: 80.38 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -1.70 
+episode max | avg | min reward: 0.40 | -0.00 | -0.30 
+T = 0.237321 
+
+---------------------------------------
+
+Episode 92 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:48:11
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.60 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.225455 
+
+---------------------------------------
+
+Episode 93 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:50:14
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -5.00 
+episode max | avg | min reward: 0.40 | -0.01 | -0.30 
+T = 0.214182 
+
+---------------------------------------
+
+Episode 94 ==> CRASH {-2.58,-0.38,-77.23}    07/09/2020 22:51:33
+episode time: 50.20 s (avg step: 0.20 s) 
+episode steps: 249 
+episode reward: -110.50 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.203473 
+
+---------------------------------------
+
+Episode 95 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:53:37
+episode time: 80.37 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -5.10 
+episode max | avg | min reward: 0.40 | -0.01 | -0.30 
+T = 0.193299 
+
+---------------------------------------
+
+Episode 96 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:55:43
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.50 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.183634 
+
+---------------------------------------
+
+Episode 97 ==> CRASH {-1.35,-1.13,-33.42}    07/09/2020 22:57:05
+episode time: 53.41 s (avg step: 0.20 s) 
+episode steps: 265 
+episode reward: -108.00 
+episode max | avg | min reward: 0.40 | -0.41 | -100.00 
+T = 0.174453 
+
+---------------------------------------
+
+Episode 98 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 22:59:06
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.60 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.165730 
+
+---------------------------------------
+
+Episode 99 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:01:08
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.50 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.157443 
+
+---------------------------------------
+
+Episode 100 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:03:11
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.00 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.149571 
+
+---------------------------------------
+
+Episode 101 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:05:18
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 9.40 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.142093 
+
+---------------------------------------
+
+Episode 102 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:07:26
+episode time: 80.43 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.50 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.134988 
+
+---------------------------------------
+
+Episode 103 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:09:29
+episode time: 80.38 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.40 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.128239 
+
+---------------------------------------
+
+Episode 104 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:11:39
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 14.90 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.121827 
+
+---------------------------------------
+
+Episode 105 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:13:47
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.50 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.115735 
+
+---------------------------------------
+
+Episode 106 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:15:49
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.50 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.109949 
+
+---------------------------------------
+
+Episode 107 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:17:49
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.80 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.104451 
+
+---------------------------------------
+
+Episode 108 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:19:57
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.099229 
+
+---------------------------------------
+
+Episode 109 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:22:01
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 6.50 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.094267 
+
+---------------------------------------
+
+Episode 110 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:24:04
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.20 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.089554 
+
+---------------------------------------
+
+Episode 111 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:26:12
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 29.20 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.085076 
+
+---------------------------------------
+
+Episode 112 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:28:13
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.20 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.080822 
+
+---------------------------------------
+
+Episode 113 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:30:17
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 31.60 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.076781 
+
+---------------------------------------
+
+Episode 114 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:32:21
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 31.10 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.072942 
+
+---------------------------------------
+
+Episode 115 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:34:28
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.10 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.069295 
+
+---------------------------------------
+
+Episode 116 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:36:37
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 33.00 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.065830 
+
+---------------------------------------
+
+Episode 117 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:38:40
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.20 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.062539 
+
+---------------------------------------
+
+Episode 118 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:40:47
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 30.50 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.059412 
+
+---------------------------------------
+
+Episode 119 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:42:50
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.50 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.056441 
+
+---------------------------------------
+
+Episode 120 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:44:57
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.80 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.053619 
+
+---------------------------------------
+
+Episode 121 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:47:01
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 35.40 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.050938 
+
+---------------------------------------
+
+Episode 122 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:49:09
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 36.40 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.048391 
+
+---------------------------------------
+
+Episode 123 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:51:13
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 38.40 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.045972 
+
+---------------------------------------
+
+Episode 124 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:53:16
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 32.30 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.043673 
+
+---------------------------------------
+
+Episode 125 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:55:23
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.10 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.041490 
+
+---------------------------------------
+
+Episode 126 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:57:23
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 35.10 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.039415 
+
+---------------------------------------
+
+Episode 127 ==> MAX STEPS PER EPISODE REACHED {400}    07/09/2020 23:59:28
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 60.70 
+episode max | avg | min reward: 0.40 | 0.15 | -0.30 
+T = 0.037444 
+
+---------------------------------------
+
+Episode 128 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:01:30
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 33.80 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.035572 
+
+---------------------------------------
+
+Episode 129 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:03:34
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 39.70 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.033793 
+
+---------------------------------------
+
+Episode 130 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:05:42
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 35.30 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.032104 
+
+---------------------------------------
+
+Episode 131 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:07:43
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 31.10 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.030499 
+
+---------------------------------------
+
+Episode 132 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:09:47
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 29.50 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.028974 
+
+---------------------------------------
+
+Episode 133 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:11:54
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 33.20 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.027525 
+
+---------------------------------------
+
+Episode 134 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:14:00
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 36.00 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.026149 
+
+---------------------------------------
+
+Episode 135 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:16:02
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 29.40 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.024841 
+
+---------------------------------------
+
+Episode 136 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:18:00
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 34.50 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.023599 
+
+---------------------------------------
+
+Episode 137 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:20:03
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.20 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.022419 
+
+---------------------------------------
+
+Episode 138 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:22:08
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.50 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.021298 
+
+---------------------------------------
+
+Episode 139 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:24:14
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 33.40 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.020233 
+
+---------------------------------------
+
+Episode 140 ==> CRASH {1.66,1.89,131.21}    08/09/2020 00:25:39
+episode time: 56.39 s (avg step: 0.20 s) 
+episode steps: 280 
+episode reward: -85.10 
+episode max | avg | min reward: 0.40 | -0.31 | -100.00 
+T = 0.019222 
+
+---------------------------------------
+
+Episode 141 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:27:44
+episode time: 80.37 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.018261 
+
+---------------------------------------
+
+Episode 142 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:29:46
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 31.30 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.017348 
+
+---------------------------------------
+
+Episode 143 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:31:47
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.80 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.016480 
+
+---------------------------------------
+
+Episode 144 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:33:49
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 33.00 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.015656 
+
+---------------------------------------
+
+Episode 145 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:35:54
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.50 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.014873 
+
+---------------------------------------
+
+Episode 146 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:37:57
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 32.60 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.014130 
+
+---------------------------------------
+
+Episode 147 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:40:03
+episode time: 80.43 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.30 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.013423 
+
+---------------------------------------
+
+Episode 148 ==> CRASH {-1.02,2.42,120.08}    08/09/2020 00:41:36
+episode time: 60.59 s (avg step: 0.20 s) 
+episode steps: 301 
+episode reward: -115.50 
+episode max | avg | min reward: 0.40 | -0.39 | -100.00 
+T = 0.012752 
+
+---------------------------------------
+
+Episode 149 ==> CRASH {1.16,1.35,-47.61}    08/09/2020 00:42:51
+episode time: 48.15 s (avg step: 0.20 s) 
+episode steps: 239 
+episode reward: -88.00 
+episode max | avg | min reward: 0.40 | -0.37 | -100.00 
+T = 0.012114 
+
+---------------------------------------
+
+Episode 150 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:44:59
+episode time: 80.35 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 29.70 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.011509 
+
+---------------------------------------
+
+Episode 151 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:47:02
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.30 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.010933 
+
+---------------------------------------
+
+Episode 152 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:49:06
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.30 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.010387 
+
+---------------------------------------
+
+Episode 153 ==> CRASH {1.09,-0.27,163.88}    08/09/2020 00:50:22
+episode time: 49.79 s (avg step: 0.20 s) 
+episode steps: 247 
+episode reward: -95.00 
+episode max | avg | min reward: 0.40 | -0.39 | -100.00 
+T = 0.009867 
+
+---------------------------------------
+
+Episode 154 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:52:29
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.90 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.009374 
+
+---------------------------------------
+
+Episode 155 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:54:34
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.008905 
+
+---------------------------------------
+
+Episode 156 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:56:38
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 34.40 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.008460 
+
+---------------------------------------
+
+Episode 157 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 00:58:44
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.70 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.008037 
+
+---------------------------------------
+
+Episode 158 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:00:47
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 9.80 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.007635 
+
+---------------------------------------
+
+Episode 159 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:02:49
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -12.00 
+episode max | avg | min reward: 0.40 | -0.03 | -0.30 
+T = 0.007253 
+
+---------------------------------------
+
+Episode 160 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:04:51
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.00 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.006891 
+
+---------------------------------------
+
+Episode 161 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:06:53
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 31.10 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.006546 
+
+---------------------------------------
+
+Episode 162 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:08:57
+episode time: 80.45 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 34.50 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.006219 
+
+---------------------------------------
+
+Episode 163 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:10:57
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.005908 
+
+---------------------------------------
+
+Episode 164 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:13:04
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 14.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.005613 
+
+---------------------------------------
+
+Episode 165 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:15:05
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 2.90 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.005332 
+
+---------------------------------------
+
+Episode 166 ==> CRASH {-0.52,2.42,162.17}    08/09/2020 01:16:09
+episode time: 43.40 s (avg step: 0.20 s) 
+episode steps: 215 
+episode reward: -108.10 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 0.005065 
+
+---------------------------------------
+
+Episode 167 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:18:14
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.40 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.004812 
+
+---------------------------------------
+
+Episode 168 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:20:20
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 35.50 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.004571 
+
+---------------------------------------
+
+Episode 169 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:22:21
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.30 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.004343 
+
+---------------------------------------
+
+Episode 170 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:24:28
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.80 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.004126 
+
+---------------------------------------
+
+Episode 171 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:26:41
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.30 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.003919 
+
+---------------------------------------
+
+Episode 172 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:28:39
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 34.00 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.003723 
+
+---------------------------------------
+
+Episode 173 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:30:42
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -20.70 
+episode max | avg | min reward: 0.40 | -0.05 | -0.30 
+T = 0.003537 
+
+---------------------------------------
+
+Episode 174 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:32:41
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.60 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.003360 
+
+---------------------------------------
+
+Episode 175 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:34:41
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 4.30 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.003192 
+
+---------------------------------------
+
+Episode 176 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:36:47
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.003033 
+
+---------------------------------------
+
+Episode 177 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:38:48
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.00 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.002881 
+
+---------------------------------------
+
+Episode 178 ==> CRASH {-2.06,-1.26,-79.28}    08/09/2020 01:40:43
+episode time: 74.40 s (avg step: 0.20 s) 
+episode steps: 370 
+episode reward: -89.30 
+episode max | avg | min reward: 0.40 | -0.24 | -100.00 
+T = 0.002737 
+
+---------------------------------------
+
+Episode 179 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:42:46
+episode time: 80.38 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.80 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.002600 
+
+---------------------------------------
+
+Episode 180 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:44:46
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.80 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.002470 
+
+---------------------------------------
+
+Episode 181 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:46:46
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.50 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.002347 
+
+---------------------------------------
+
+Episode 182 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:48:49
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.10 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.002229 
+
+---------------------------------------
+
+Episode 183 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:50:53
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.002118 
+
+---------------------------------------
+
+Episode 184 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:53:00
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -27.80 
+episode max | avg | min reward: 0.40 | -0.07 | -0.30 
+T = 0.002012 
+
+---------------------------------------
+
+Episode 185 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:55:10
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.60 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.001911 
+
+---------------------------------------
+
+Episode 186 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:57:15
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 12.10 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.001816 
+
+---------------------------------------
+
+Episode 187 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 01:59:21
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.001725 
+
+---------------------------------------
+
+Episode 188 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:01:33
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.00 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.001639 
+
+---------------------------------------
+
+Episode 189 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:03:39
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.20 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.001557 
+
+---------------------------------------
+
+Episode 190 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:05:42
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.70 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.001479 
+
+---------------------------------------
+
+Episode 191 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:07:45
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -1.80 
+episode max | avg | min reward: 0.40 | -0.00 | -0.30 
+T = 0.001405 
+
+---------------------------------------
+
+Episode 192 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:09:48
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.90 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.001335 
+
+---------------------------------------
+
+Episode 193 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:11:50
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.80 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.001268 
+
+---------------------------------------
+
+Episode 194 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:13:48
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 7.90 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.001205 
+
+---------------------------------------
+
+Episode 195 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:15:52
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 3.10 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.001144 
+
+---------------------------------------
+
+Episode 196 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:17:58
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 3.50 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.001087 
+
+---------------------------------------
+
+Episode 197 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:20:00
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.10 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.001033 
+
+---------------------------------------
+
+Episode 198 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:22:02
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -25.30 
+episode max | avg | min reward: 0.40 | -0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 199 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:24:02
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.00 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 200 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:26:06
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.60 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 201 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:28:10
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.60 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 202 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:30:15
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.40 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 203 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:32:24
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.30 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 204 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:34:27
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.70 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 205 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:36:31
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 9.20 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 206 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:38:35
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 10.60 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 207 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:40:38
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 28.10 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 208 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:42:42
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 209 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:44:50
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.80 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 210 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:46:50
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 12.80 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 211 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:48:54
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.00 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 212 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:50:59
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.00 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 213 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:53:05
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.30 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 214 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:55:08
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.00 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 215 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:57:09
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.50 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 216 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 02:59:16
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.50 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 217 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:01:18
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.90 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 218 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:03:22
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 219 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:05:27
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -20.00 
+episode max | avg | min reward: 0.40 | -0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 220 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:07:31
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -14.80 
+episode max | avg | min reward: 0.40 | -0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 221 ==> CRASH {-0.85,-1.02,-132.09}    08/09/2020 03:08:42
+episode time: 46.00 s (avg step: 0.20 s) 
+episode steps: 228 
+episode reward: -129.40 
+episode max | avg | min reward: 0.40 | -0.57 | -100.00 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 222 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:10:47
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 28.20 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 223 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:12:56
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 5.00 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 224 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:14:56
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.10 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 225 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:16:58
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.00 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 226 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:19:03
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -26.50 
+episode max | avg | min reward: 0.40 | -0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 227 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:21:09
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.10 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 228 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:23:12
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 29.40 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 229 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:25:17
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 2.60 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 230 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:27:23
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.00 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 231 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:29:30
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 232 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:31:31
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -0.60 
+episode max | avg | min reward: 0.40 | -0.00 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 233 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:33:35
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.60 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 234 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:35:36
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 28.70 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 235 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:37:41
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 3.60 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 236 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:39:43
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.50 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 237 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:41:47
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 238 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:43:50
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 239 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:45:51
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.70 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 240 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:48:00
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.20 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 241 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:50:02
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.30 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 242 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:52:07
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -4.00 
+episode max | avg | min reward: 0.40 | -0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 243 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:54:08
+episode time: 80.43 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.00 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 244 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:56:07
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 0.40 
+episode max | avg | min reward: 0.40 | 0.00 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 245 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 03:58:13
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.30 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 246 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:00:18
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 28.40 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 247 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:02:22
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.40 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 248 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:04:22
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.70 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 249 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:06:25
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.30 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 250 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:08:26
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 33.80 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 251 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:10:36
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.20 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 252 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:12:42
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.00 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 253 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:14:51
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 254 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:16:58
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.80 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 255 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:19:02
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 32.30 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 256 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:21:05
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 257 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:23:10
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 258 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:25:17
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 28.50 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 259 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:27:24
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.30 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 260 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:29:31
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -12.30 
+episode max | avg | min reward: 0.40 | -0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 261 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:31:38
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 3.40 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 262 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:33:40
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 263 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:35:43
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.60 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 264 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:37:49
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.50 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 265 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:39:54
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 29.20 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 266 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:41:58
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.30 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 267 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:44:06
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.60 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 268 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:46:13
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.00 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 269 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:48:16
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -1.10 
+episode max | avg | min reward: 0.40 | -0.00 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 270 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:50:21
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 271 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:52:23
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -11.40 
+episode max | avg | min reward: 0.40 | -0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 272 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:54:27
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.70 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 273 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:56:32
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 31.40 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 274 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 04:58:33
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.00 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 275 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:00:41
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.40 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 276 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:02:42
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.40 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 277 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:04:43
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.60 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 278 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:06:48
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.60 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 279 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:08:50
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.30 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 280 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:10:54
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.20 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 281 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:12:59
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.80 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 282 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:15:11
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.40 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 283 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:17:16
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -19.50 
+episode max | avg | min reward: 0.40 | -0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 284 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:19:20
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.30 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 285 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:21:20
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.30 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 286 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:23:25
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -3.90 
+episode max | avg | min reward: 0.40 | -0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 287 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:25:24
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.60 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 288 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:27:33
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 30.70 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 289 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:29:32
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -27.80 
+episode max | avg | min reward: 0.40 | -0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 290 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:31:35
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 291 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:33:35
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 23.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 292 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:35:40
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 32.80 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 293 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:37:45
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.40 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 294 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:39:52
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.60 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 295 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:41:55
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.60 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 296 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:44:02
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 28.90 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 297 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:46:04
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 10.20 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 298 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:48:05
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.70 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 299 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:50:04
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.20 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 300 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:52:10
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 301 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:54:11
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.10 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 302 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:56:14
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.70 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 303 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 05:58:20
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.00 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 304 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:00:27
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.80 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 305 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:02:33
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 32.80 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 306 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:04:34
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.50 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 307 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:06:37
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 2.00 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 308 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:08:43
+episode time: 80.45 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.60 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 309 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:10:43
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.90 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 310 ==> CRASH {2.23,0.06,43.73}    08/09/2020 06:11:32
+episode time: 32.80 s (avg step: 0.20 s) 
+episode steps: 162 
+episode reward: -99.70 
+episode max | avg | min reward: 0.40 | -0.62 | -100.00 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 311 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:13:41
+episode time: 80.37 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.80 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 312 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:15:45
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -25.50 
+episode max | avg | min reward: 0.40 | -0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 313 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:17:47
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 27.90 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 314 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:19:54
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 28.70 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 315 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:21:55
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 14.50 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 316 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:23:59
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.80 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 317 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:26:05
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 5.10 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 318 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:28:08
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.00 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 319 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:30:08
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.80 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 320 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:32:12
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.60 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 321 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:34:13
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 6.70 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 322 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:36:18
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.10 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 323 ==> CRASH {2.01,1.35,104.95}    08/09/2020 06:37:42
+episode time: 54.81 s (avg step: 0.20 s) 
+episode steps: 272 
+episode reward: -93.70 
+episode max | avg | min reward: 0.40 | -0.35 | -100.00 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 324 ==> CRASH {2.40,-0.36,74.60}    08/09/2020 06:38:33
+episode time: 31.15 s (avg step: 0.20 s) 
+episode steps: 154 
+episode reward: -94.90 
+episode max | avg | min reward: 0.40 | -0.62 | -100.00 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 325 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:40:33
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 31.30 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 326 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:42:36
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.10 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 327 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:44:39
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.60 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 328 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:46:41
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 2.20 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 329 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:48:46
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 4.00 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 330 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:50:50
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 14.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 331 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:52:54
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.60 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 332 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:54:54
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 9.30 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 333 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:56:55
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 334 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 06:58:58
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 335 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:01:04
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 7.30 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 336 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:03:08
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 337 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:05:20
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 10.80 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 338 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:07:21
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -13.50 
+episode max | avg | min reward: 0.40 | -0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 339 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:09:25
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 9.90 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 340 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:11:28
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -6.10 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 341 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:13:31
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.00 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 342 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:15:34
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.80 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 343 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:17:44
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.00 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 344 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:19:45
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.20 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 345 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:21:49
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.30 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 346 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:23:54
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.20 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 347 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:26:00
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 348 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:28:04
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 3.20 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 349 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:30:07
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.00 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 350 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:32:11
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.40 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 351 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:34:17
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 10.80 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 352 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:36:29
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.70 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 353 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:38:43
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.00 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 354 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:40:51
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.60 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 355 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:42:57
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.60 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 356 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:45:04
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -9.80 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 357 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:47:08
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.30 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 358 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:49:16
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 12.40 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 359 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:51:25
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 6.70 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 360 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:53:30
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 361 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:55:30
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 362 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:57:36
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 12.20 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 363 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 07:59:39
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.70 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 364 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:01:43
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.00 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 365 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:03:50
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 366 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:05:54
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.80 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 367 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:08:00
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.70 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 368 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:10:03
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.30 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 369 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:12:07
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 7.30 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 370 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:14:18
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 6.80 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 371 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:16:23
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.70 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 372 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:18:29
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.60 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 373 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:20:30
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 374 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:22:33
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 375 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:24:37
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.80 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 376 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:26:43
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.60 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 377 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:28:45
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 378 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:30:48
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.00 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 379 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:32:46
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.50 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 380 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:34:45
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.90 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 381 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:36:50
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 382 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:38:50
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.80 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 383 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:40:52
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -5.50 
+episode max | avg | min reward: 0.40 | -0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 384 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:42:59
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 12.70 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 385 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:45:01
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.00 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 386 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:47:08
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.70 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 387 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:49:14
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.50 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 388 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:51:14
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.30 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 389 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:53:18
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.40 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 390 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:55:22
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.50 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 391 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:57:22
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.70 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 392 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 08:59:23
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.30 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 393 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:01:22
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -13.30 
+episode max | avg | min reward: 0.40 | -0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 394 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:03:26
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 1.80 
+episode max | avg | min reward: 0.40 | 0.00 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 395 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:05:31
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.40 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 396 ==> CRASH {-0.08,-0.84,-49.82}    08/09/2020 09:07:23
+episode time: 69.20 s (avg step: 0.20 s) 
+episode steps: 344 
+episode reward: -127.70 
+episode max | avg | min reward: 0.40 | -0.37 | -100.00 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 397 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:09:28
+episode time: 80.36 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 398 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:11:33
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.70 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 399 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:13:36
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.30 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 400 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:15:41
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.10 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 401 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:17:48
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.90 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 402 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:19:51
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.60 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 403 ==> CRASH {-0.20,-0.17,21.98}    08/09/2020 09:21:22
+episode time: 60.20 s (avg step: 0.20 s) 
+episode steps: 299 
+episode reward: -138.40 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 404 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:23:28
+episode time: 80.35 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 12.40 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 405 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:25:28
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 406 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:27:31
+episode time: 80.43 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.90 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 407 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:29:36
+episode time: 80.38 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 6.40 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 408 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:31:39
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.80 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 409 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:33:41
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.90 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 410 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:35:42
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.60 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 411 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:37:42
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 412 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:39:48
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.60 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 413 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:41:56
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 25.60 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 414 ==> CRASH {-0.14,-0.89,-63.16}    08/09/2020 09:43:02
+episode time: 41.41 s (avg step: 0.20 s) 
+episode steps: 205 
+episode reward: -125.80 
+episode max | avg | min reward: 0.40 | -0.62 | -100.00 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 415 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:45:07
+episode time: 80.38 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.10 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 416 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:47:10
+episode time: 80.37 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 417 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:49:16
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.60 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 418 ==> CRASH {-0.23,-0.15,75.36}    08/09/2020 09:51:01
+episode time: 68.40 s (avg step: 0.20 s) 
+episode steps: 340 
+episode reward: -127.90 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 419 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:53:07
+episode time: 80.35 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.10 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 420 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:55:16
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 2.80 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 421 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:57:23
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 7.20 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 422 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 09:59:32
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.90 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 423 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:01:36
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 12.70 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 424 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:03:35
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.50 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 425 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:05:41
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.20 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 426 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:07:45
+episode time: 80.38 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 427 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:09:47
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.70 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 428 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:11:53
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 429 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:13:59
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.10 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 430 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:16:00
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.90 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 431 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:18:03
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 22.50 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 432 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:20:09
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.00 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 433 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:22:06
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.30 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 434 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:24:10
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.70 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 435 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:26:17
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.70 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 436 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:28:16
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 437 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:30:18
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 438 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:32:19
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 439 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:34:23
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 440 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:36:27
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.20 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 441 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:38:33
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -28.30 
+episode max | avg | min reward: 0.40 | -0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 442 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:40:33
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.30 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 443 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:42:36
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -22.50 
+episode max | avg | min reward: 0.40 | -0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 444 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:44:36
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 12.70 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 445 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:46:41
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 7.90 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 446 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:48:44
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 12.80 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 447 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:50:49
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -8.30 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 448 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:52:58
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 5.70 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 449 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:54:57
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.10 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 450 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:56:58
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.10 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 451 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 10:59:05
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 10.30 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 452 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:01:05
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.70 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 453 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:03:04
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -8.90 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 454 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:05:08
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.70 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 455 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:07:15
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 456 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:09:24
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 4.30 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 457 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:11:29
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.40 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 458 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:13:29
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 26.60 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 459 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:15:33
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.50 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 460 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:17:33
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 461 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:19:39
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.10 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 462 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:21:40
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 5.80 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 463 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:23:45
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.10 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 464 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:25:50
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.90 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 465 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:27:55
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 466 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:29:52
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 10.20 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 467 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:31:55
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.90 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 468 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:33:58
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 9.20 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 469 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:36:03
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 5.80 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 470 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:38:08
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 14.20 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 471 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:40:09
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.50 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 472 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:42:12
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 14.60 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 473 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:44:13
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.30 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 474 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:46:15
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 2.60 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 475 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:48:19
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.60 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 476 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:50:27
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 477 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:52:27
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 11.90 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 478 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:54:29
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 24.20 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 479 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:56:28
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 15.90 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 480 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 11:58:29
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 481 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:00:31
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.00 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 482 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:02:33
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: -12.60 
+episode max | avg | min reward: 0.40 | -0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 483 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:04:38
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.30 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 484 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:06:42
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 5.10 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 485 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:08:43
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 16.60 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 486 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:10:44
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.50 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 487 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:12:50
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.30 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 488 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:14:52
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.00 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 489 ==> CRASH {-0.14,-0.22,94.05}    08/09/2020 12:16:48
+episode time: 73.81 s (avg step: 0.20 s) 
+episode steps: 367 
+episode reward: -124.60 
+episode max | avg | min reward: 0.40 | -0.34 | -100.00 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 490 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:18:52
+episode time: 80.35 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.80 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 491 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:20:52
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.20 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 492 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:23:00
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 17.30 
+episode max | avg | min reward: 0.40 | 0.04 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 493 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:25:07
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 19.70 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 494 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:27:09
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 13.50 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 495 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:29:13
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 21.00 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 496 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:31:20
+episode time: 80.41 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.50 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 497 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:33:24
+episode time: 80.39 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 20.40 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 498 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:35:30
+episode time: 80.42 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 18.30 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 499 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:37:34
+episode time: 80.38 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 8.60 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+---------------------------------------
+
+Episode 500 ==> MAX STEPS PER EPISODE REACHED {400}    08/09/2020 12:39:42
+episode time: 80.40 s (avg step: 0.20 s) 
+episode steps: 400 
+episode reward: 7.10 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.000981 
+
+--------------------------------------- 
+
+MAX EPISODES REACHED(500), LEARNING FINISHED ==> 08/09/2020 12:39:43
+Simulation time: 9:50:43  h/m/s 
+Real time: 15:11:3  h/m/s 
+
