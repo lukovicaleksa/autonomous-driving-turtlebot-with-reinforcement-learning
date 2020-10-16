@@ -46,7 +46,7 @@ else:
     THETA_GOAL = GOAL_POSITIONS_THETA[PATH_IND]
 
 # Log file directory - Q table source
-Q_TABLE_SOURCE = 'Log_learning_3'
+Q_TABLE_SOURCE = 'Log_learning_1'
 
 if __name__ == '__main__':
     try:
