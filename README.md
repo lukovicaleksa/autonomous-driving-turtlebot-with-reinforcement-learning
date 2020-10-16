@@ -1,5 +1,5 @@
 # Autonomous-Driving-Turtlebot-with-Reinforcement-Learning
-Implementation of Q-learning algorithm and Feedback control on turtlebot3_burger in ROS.
+Implementation of Q-learning algorithm and Feedback control for mobile robot (turtlebot3_burger) in ROS.
 
 Content:
 
