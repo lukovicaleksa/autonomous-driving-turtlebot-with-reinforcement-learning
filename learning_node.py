@@ -318,15 +318,6 @@ if __name__ == '__main__':
 
                             status_rda = robotDoAction(velPub, action)
 
-                            #if prev_action == 0:
-                            #    ac = 'Go forward'
-                            #elif prev_action == 1:
-                            #    ac = 'Turn right'
-                            #else:
-                            #    ac = 'Turn left'
-
-                            #print 'Action: ', ac, 'Reward: ', reward
-
                             if not status_uqt == 'updateQTable => OK':
                                 print '\r\n', status_uqt, '\r\n'
                                 log_sim_info.write('\r\n'+status+'\r\n')
