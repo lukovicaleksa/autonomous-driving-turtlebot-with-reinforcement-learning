@@ -30,7 +30,7 @@ THETA_INIT = 45.0
 RANDOM_INIT_POS = False
 
 # Log file directory
-LOG_FILE_DIR = 'Log_learning_4'
+LOG_FILE_DIR = 'Log_learning_1'
 
 # Q table source file
 Q_SOURCE_DIR = ''
