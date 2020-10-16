@@ -139,7 +139,9 @@ if __name__ == '__main__':
                     crash = checkCrash(lidar)
                     object_nearby = checkObjectNearby(lidar)
                     goal_near = checkGoalNear(x, y, X_GOAL, Y_GOAL)
-                    enable_feedback_control = False
+                    
+                    # Enable feedback control
+                    enable_feedback_control = True
 
                     # Stop the simulation
                     if crash:
