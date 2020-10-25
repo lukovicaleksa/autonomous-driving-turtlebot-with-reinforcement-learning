@@ -26,3 +26,5 @@ To run the code in gazebo simulator, export the model (burger) and roslaunch tur
 To run the code live on a physical TurtleBot, the ROS_MASTER_URI and ROS_HOSTNAME need to be set via the terminal by editing the ~/.bashrc script.
 
 After setting up the environment, rosrun the desired nodes!
+
+Link to video: https://www.youtube.com/watch?v=zw1BCfku1Dc&t=3s
