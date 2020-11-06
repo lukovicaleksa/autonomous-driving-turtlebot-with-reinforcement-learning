@@ -1,6 +1,8 @@
 # autonomous-driving-turtlebot-with-reinforcement-learning
 Implementation of Q-learning algorithm and Feedback control for the mobile robot (turtlebot3_burger) in ROS.
 
+https://user-images.githubusercontent.com/72970001/98344388-78516600-2013-11eb-9de5-367b9a867d10.jpeg
+
 Content:
 
     Log_learning -> folder containing data and parameters from the learning phase, as well as the Q-table 
