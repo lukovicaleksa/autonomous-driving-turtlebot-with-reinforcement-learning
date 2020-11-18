@@ -5,6 +5,8 @@ Implementation of Q-learning algorithm and Feedback control for the mobile robot
 
 Content:
 
+    Log_feedback_1, 2, 3 -> folders containing data and parameters from Feedback Control algorithm testing
+    
     Log_learning -> folder containing data and parameters from the learning phase, as well as the Q-table 
     
     rqt_graphs -> folder containing rqt graphs in ROS
@@ -21,7 +23,7 @@ Content:
 
     learning_node.py -> initializing the node for learning session
     
-    feedback_control_node.py -> initializing the node for applying Feedback control algorithm
+    feedback_control_node.py -> initializing the node for applying Feedback Control algorithm
 
     control_node.py -> initializing the node for applying the Q-learning algorithm combined with Feedback control
 
