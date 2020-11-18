@@ -1,5 +1,0 @@
-Simulation parameters: 
-k_rho = 2.000 
-k_alpha = 10.000 
-k_beta = -6.000 
-v_const = 0.100 
