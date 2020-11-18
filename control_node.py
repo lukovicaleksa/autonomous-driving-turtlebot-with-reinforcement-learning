@@ -46,7 +46,7 @@ else:
     THETA_GOAL = GOAL_POSITIONS_THETA[PATH_IND]
 
 # Log file directory - Q table source
-Q_TABLE_SOURCE = 'Log_learning_1'
+Q_TABLE_SOURCE = 'Log_learning_3'
 
 if __name__ == '__main__':
     try:
@@ -139,9 +139,7 @@ if __name__ == '__main__':
                     crash = checkCrash(lidar)
                     object_nearby = checkObjectNearby(lidar)
                     goal_near = checkGoalNear(x, y, X_GOAL, Y_GOAL)
-                    
-                    # Enable feedback control
-                    enable_feedback_control = True
+                    enable_feedback_control = False
 
                     # Stop the simulation
                     if crash:

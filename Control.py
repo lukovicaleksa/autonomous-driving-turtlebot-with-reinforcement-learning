@@ -18,9 +18,9 @@ CONST_ANGULAR_SPEED_TURN = 0.4
 
 # Feedback control parameters
 K_RO = 2
-K_ALPHA = 10
-K_BETA = -6
-V_CONST = 0.08 # [m/s]
+K_ALPHA = 15
+K_BETA = -3
+V_CONST = 0.1 # [m/s]
 
 # Get theta in [radians]
 def getRotation(odomMsg):
@@ -179,7 +179,7 @@ def robotFeedbackControl(velPub, x, y, theta, x_goal, y_goal, theta_goal):
     #print 'theta goal norm:', degrees(theta_goal_norm)
     #print 'ro:', ro
 
-    if ro < 0.05 and degrees(abs(theta-theta_goal_norm)) < 10:
+    if ro < 0.01 and degrees(abs(theta-theta_goal_norm)) < 5:
         status = 'Goal position reached!'
         v = 0
         w = 0
@@ -196,3 +196,11 @@ def robotFeedbackControl(velPub, x, y, theta, x_goal, y_goal, theta_goal):
     velPub.publish(velMsg)
 
     return status
+
+# Stability Condition
+def check_stability(k_rho, k_alpha, k_beta):
+    return k_rho > 0 and k_beta < 0 and k_alpha > k_rho
+
+# Strong Stability Condition
+def check_strong_stability(k_rho, k_alpha, k_beta):
+    return k_rho > 0 and k_beta < 0 and k_alpha + 5 * k_beta / 3 - 2 * k_rho / np.pi > 0
