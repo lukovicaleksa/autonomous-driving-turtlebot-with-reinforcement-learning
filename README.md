@@ -20,6 +20,8 @@ Content:
     scan_node.py -> initializing the node for displaying the Lidar measurements and the current state of the agent
 
     learning_node.py -> initializing the node for learning session
+    
+    feedback_control_node.py -> initializing the node for applying Feedback control algorithm
 
     control_node.py -> initializing the node for applying the Q-learning algorithm combined with Feedback control
 
