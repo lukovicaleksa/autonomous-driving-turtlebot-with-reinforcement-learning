@@ -11,16 +11,24 @@ from Lidar import *
 from Control import *
 
 # Episode parameters
-MAX_EPISODES = 600
-MAX_STEPS_PER_EPISODE = 400
+MAX_EPISODES = 400
+MAX_STEPS_PER_EPISODE = 500
 MIN_TIME_BETWEEN_ACTIONS = 0.0
 
 # Learning parameters
-ALPHA = 0.4
-GAMMA = 0.6
+ALPHA = 0.5
+GAMMA = 0.9
+
 T_INIT = 25
 T_GRAD = 0.95
 T_MIN = 0.001
+
+EPSILON_INIT = 0.9
+EPSILON_GRAD = 0.96
+EPSILON_MIN = 0.05
+
+# 1 - Softmax , 2 - Epsilon greedy
+EXPLORATION_FUNCTION = 1
 
 # Initial position
 X_INIT = -0.4
@@ -30,7 +38,7 @@ THETA_INIT = 45.0
 RANDOM_INIT_POS = False
 
 # Log file directory
-LOG_FILE_DIR = 'Log_learning_1'
+LOG_FILE_DIR = 'Log_learning'
 
 # Q table source file
 Q_SOURCE_DIR = ''
@@ -47,8 +55,8 @@ def initLearning():
     print Q_table
 
 def initParams():
-    global T, alpha, gamma
-    global ep_steps, ep_reward, episode, steps_per_episode, reward_per_episode, T_per_episode
+    global T, EPSILON, alpha, gamma
+    global ep_steps, ep_reward, episode, steps_per_episode, reward_per_episode, T_per_episode, EPSILON_per_episode
     global ep_reward_arr, reward_max_per_episode, reward_min_per_episode, reward_avg_per_episode
     global crash, t_ep, t_per_episode, t_sim_start, t_step
     global log_sim_info, log_sim_params
@@ -61,6 +69,7 @@ def initParams():
 
     # Learning parameters
     T = T_INIT
+    EPSILON = EPSILON_INIT
     alpha = ALPHA
     gamma = GAMMA
 
@@ -93,6 +102,7 @@ def initParams():
     t_step = t_start
 
     T_per_episode = np.array([])
+    EPSILON_per_episode = np.array([])
     t_per_episode = np.array([])
 
     # Date
@@ -119,9 +129,14 @@ def initParams():
     text = text + '--------------------------------------- \r\n'
     text = text + 'ALPHA = %.2f \r\n' % ALPHA
     text = text + 'GAMMA = %.2f \r\n' % GAMMA
-    text = text + 'T_INIT = %.3f \r\n' % T_INIT
-    text = text + 'T_GRAD = %.3f \r\n' % T_GRAD
-    text = text + 'T_MIN = %.3f \r\n' % T_MIN
+    if EXPLORATION_FUNCTION == 1:
+        text = text + 'T_INIT = %.3f \r\n' % T_INIT
+        text = text + 'T_GRAD = %.3f \r\n' % T_GRAD
+        text = text + 'T_MIN = %.3f \r\n' % T_MIN
+    else:
+        text = text + 'EPSILON_INIT = %.3f \r\n' % EPSILON_INIT
+        text = text + 'EPSILON_GRAD = %.3f \r\n' % EPSILON_GRAD
+        text = text + 'EPSILON_MIN = %.3f \r\n' % EPSILON_MIN
     text = text + '--------------------------------------- \r\n'
     text = text + 'MAX_LIDAR_DISTANCE = %.2f \r\n' % MAX_LIDAR_DISTANCE
     text = text + 'COLLISION_DISTANCE = %.2f \r\n' % COLLISION_DISTANCE
@@ -137,8 +152,8 @@ def initParams():
 if __name__ == '__main__':
     try:
         global actions, state_space, Q_table
-        global T, alpha, gamma
-        global ep_steps, ep_reward, episode, steps_per_episode, reward_per_episode, T_per_episode
+        global T, EPSILON, alpha, gamma
+        global ep_steps, ep_reward, episode, steps_per_episode, reward_per_episode, T_per_episode, EPSILON_per_episode
         global ep_reward_arr, reward_max_per_episode, reward_min_per_episode, reward_avg_per_episode
         global crash, t_ep, t_per_episode, t_sim_start, t_step
         global log_sim_info, log_sim_params
@@ -153,7 +168,7 @@ if __name__ == '__main__':
 
         initLearning()
         initParams()
-        sleep(5)
+        #sleep(5)
 
         # main loop
         while not rospy.is_shutdown():
@@ -200,6 +215,7 @@ if __name__ == '__main__':
                     np.savetxt(LOG_FILE_DIR+'/steps_per_episode.csv', steps_per_episode, delimiter = ' , ')
                     np.savetxt(LOG_FILE_DIR+'/reward_per_episode.csv', reward_per_episode, delimiter = ' , ')
                     np.savetxt(LOG_FILE_DIR+'/T_per_episode.csv', T_per_episode, delimiter = ' , ')
+                    np.savetxt(LOG_FILE_DIR+'/EPSILON_per_episode.csv', EPSILON_per_episode, delimiter = ' , ')
                     np.savetxt(LOG_FILE_DIR+'/reward_min_per_episode.csv', reward_min_per_episode, delimiter = ' , ')
                     np.savetxt(LOG_FILE_DIR+'/reward_max_per_episode.csv', reward_max_per_episode, delimiter = ' , ')
                     np.savetxt(LOG_FILE_DIR+'/reward_avg_per_episode.csv', reward_avg_per_episode, delimiter = ' , ')
@@ -238,13 +254,17 @@ if __name__ == '__main__':
                         text = text + 'episode steps: %d \r\n' % ep_steps
                         text = text + 'episode reward: %.2f \r\n' % ep_reward
                         text = text + 'episode max | avg | min reward: %.2f | %.2f | %.2f \r\n' % (reward_max, reward_avg, reward_min)
-                        text = text + 'T = %f \r\n' % T
+                        if EXPLORATION_FUNCTION == 1:
+                            text = text + 'T = %f \r\n' % T
+                        else:
+                            text = text + 'EPSILON = %f \r\n' % EPSILON
                         print text
                         log_sim_info.write('\r\n'+text)
 
                         steps_per_episode = np.append(steps_per_episode, ep_steps)
                         reward_per_episode = np.append(reward_per_episode, ep_reward)
                         T_per_episode = np.append(T_per_episode, T)
+                        EPSILON_per_episode = np.append(EPSILON_per_episode, EPSILON)
                         t_per_episode = np.append(t_per_episode, ep_time)
                         reward_min_per_episode = np.append(reward_min_per_episode, reward_min)
                         reward_max_per_episode = np.append(reward_max_per_episode, reward_max)
@@ -257,6 +277,8 @@ if __name__ == '__main__':
                         first_action_taken = False
                         if T > T_MIN:
                             T = T_GRAD * T
+                        if EPSILON > EPSILON_MIN:
+                            EPSILON = EPSILON_GRAD * EPSILON
                         episode = episode + 1
                     else:
                         ep_steps = ep_steps + 1
@@ -277,7 +299,7 @@ if __name__ == '__main__':
                             # check init pos
                             if abs(x-x_init) < 0.01 and abs(y-y_init) < 0.01 and abs(theta-theta_init) < 1:
                                 robot_in_pos = True
-                                sleep(2)
+                                #sleep(2)
                             else:
                                 robot_in_pos = False
                         # First acion
@@ -286,7 +308,10 @@ if __name__ == '__main__':
                             ( state_ind, x1, x2 ,x3 ,x4 ) = scanDiscretization(state_space, lidar)
                             crash = checkCrash(lidar)
 
-                            ( action, status_sms ) = softMaxSelection(Q_table, state_ind, actions, T)
+                            if EXPLORATION_FUNCTION == 1 :
+                                ( action, status_strat ) = softMaxSelection(Q_table, state_ind, actions, T)
+                            else:
+                                ( action, status_strat ) = epsiloGreedyExploration(Q_table, state_ind, actions, T)
 
                             status_rda = robotDoAction(velPub, action)
 
@@ -296,13 +321,13 @@ if __name__ == '__main__':
 
                             first_action_taken = True
 
-                            if not status_sms == 'softMaxSelection => OK':
-                                print '\r\n', status_sms, '\r\n'
-                                log_sim_info.write('\r\n'+status+'\r\n')
+                            if not (status_strat == 'softMaxSelection => OK' or status_strat == 'epsiloGreedyExploration => OK'):
+                                print '\r\n', status_strat, '\r\n'
+                                log_sim_info.write('\r\n'+status_strat+'\r\n')
 
                             if not status_rda == 'robotDoAction => OK':
                                 print '\r\n', status_rda, '\r\n'
-                                log_sim_info.write('\r\n'+status+'\r\n')
+                                log_sim_info.write('\r\n'+status_rda+'\r\n')
 
                         # Rest of the algorithm
                         else:
@@ -314,19 +339,22 @@ if __name__ == '__main__':
 
                             ( Q_table, status_uqt ) = updateQTable(Q_table, prev_state_ind, action, reward, state_ind, alpha, gamma)
 
-                            ( action, status_sms ) = softMaxSelection(Q_table, state_ind, actions, T)
+                            if EXPLORATION_FUNCTION == 1:
+                                ( action, status_strat ) = softMaxSelection(Q_table, state_ind, actions, T)
+                            else:
+                                ( action, status_strat ) = epsiloGreedyExploration(Q_table, state_ind, actions, T)
 
                             status_rda = robotDoAction(velPub, action)
 
                             if not status_uqt == 'updateQTable => OK':
                                 print '\r\n', status_uqt, '\r\n'
-                                log_sim_info.write('\r\n'+status+'\r\n')
-                            if not status_sms == 'softMaxSelection => OK':
-                                print '\r\n', status_sms, '\r\n'
-                                log_sim_info.write('\r\n'+status+'\r\n')
+                                log_sim_info.write('\r\n'+status_uqt+'\r\n')
+                            if not (status_strat == 'softMaxSelection => OK' or status_strat == 'epsiloGreedyExploration => OK'):
+                                print '\r\n', status_strat, '\r\n'
+                                log_sim_info.write('\r\n'+status_strat+'\r\n')
                             if not status_rda == 'robotDoAction => OK':
                                 print '\r\n', status_rda, '\r\n'
-                                log_sim_info.write('\r\n'+status+'\r\n')
+                                log_sim_info.write('\r\n'+status_rda+'\r\n')
 
                             ep_reward = ep_reward + reward
                             ep_reward_arr = np.append(ep_reward_arr, reward)

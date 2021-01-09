@@ -85,6 +85,7 @@ def robotSetPos(setPosPub, x, y, theta):
     checkpoint.pose.position.z = 0.0
 
     [x_q,y_q,z_q,w_q] = quaternion_from_euler(0.0,0.0,radians(theta))
+
     checkpoint.pose.orientation.x = x_q
     checkpoint.pose.orientation.y = y_q
     checkpoint.pose.orientation.z = z_q
@@ -103,22 +104,17 @@ def robotSetPos(setPosPub, x, y, theta):
 
 # Set random initial robot position and orientation
 def robotSetRandomPos(setPosPub):
-    #x_range = np.arange(-1.5, 1.5, 1.0)
-    #x = np.random.choice(x_range)
-    #y_range = np.arange(-1.5, 1.5, 1.0)
-    #y = np.random.choice(y_range)
-    #theta_range = np.arange(45, 360, 45)
-    #theta = np.random.choice(theta_range)
-
-    x_range = np.array([-0.4, -0.4, -0.4])
-    y_range = np.array([-0.4, -0.4, -0.4])
-    theta_range = np.array([45, 60, 30])
+    x_range = np.array([-0.4, 0.6, 0.6, -1.4, -1.4, 2.0, 2.0, -2.5, 1.0, -1.0])
+    y_range = np.array([-0.4, 0.6, -1.4, 0.6, -1.4, 1.0, -1.0, 0.0, 2.0, 2.0])
+    theta_range = np.arange(0, 360, 15)
+    #theta_range = np.array([0, 30, 45, 60, 75, 90])
 
     ind = np.random.randint(0,len(x_range))
+    ind_theta = np.random.randint(0,len(theta_range))
 
     x = x_range[ind]
     y = y_range[ind]
-    theta = theta_range[ind]
+    theta = theta_range[ind_theta]
 
     checkpoint = ModelState()
 
@@ -129,6 +125,7 @@ def robotSetRandomPos(setPosPub):
     checkpoint.pose.position.z = 0.0
 
     [x_q,y_q,z_q,w_q] = quaternion_from_euler(0.0,0.0,radians(theta))
+
     checkpoint.pose.orientation.x = x_q
     checkpoint.pose.orientation.y = y_q
     checkpoint.pose.orientation.z = z_q
@@ -173,11 +170,6 @@ def robotFeedbackControl(velPub, x, y, theta, x_goal, y_goal, theta_goal):
 
     alpha = (lamda -  theta + pi) % (2*pi) - pi
     beta = (theta_goal - lamda + pi) % (2*pi) - pi
-
-    # check for goal position
-    #print 'theta:', degrees(theta)
-    #print 'theta goal norm:', degrees(theta_goal_norm)
-    #print 'ro:', ro
 
     if ro < 0.01 and degrees(abs(theta-theta_goal_norm)) < 5:
         status = 'Goal position reached!'
