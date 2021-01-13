@@ -26,6 +26,8 @@ Content:
     feedback_control_node.py -> initializing the node for applying Feedback Control algorithm
 
     control_node.py -> initializing the node for applying the Q-learning algorithm combined with Feedback control
+    
+Algorithm is implemented from scratch.
 
 To run the code in gazebo simulator, export the model (burger) and roslaunch turtlebot3_world.launch file.
 
