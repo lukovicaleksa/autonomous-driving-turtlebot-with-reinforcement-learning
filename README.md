@@ -15,6 +15,7 @@ Content:
 * [learning_node.py](learning_node.py) -> initializing the node for learning session
 * [feedback_control_node.py](feedback_control_node.py) -> initializing the node for applying Feedback Control algorithm
 * [control_node.py](control_node.py) -> initializing the node for applying the Q-learning algorithm combined with Feedback control
+* [learning_phase_flow_chart.png](learning_phase_flow_chart.png) -> flow chart of the learning phase of the algorithm
     
 Algorithm is implemented from scratch.
 
