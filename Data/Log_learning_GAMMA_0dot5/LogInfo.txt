@@ -1,0 +1,1810 @@
+
+SIMULATION START ==> 04/12/2020 09:36:08
+
+
+---------------------------------------
+
+Episode 1 ==> CRASH {-2.04,1.34,117.81}    04/12/2020 09:36:34
+episode time: 40.92 s (avg step: 0.20 s) 
+episode steps: 202 
+episode reward: -118.60 
+episode max | avg | min reward: 0.40 | -0.59 | -100.00 
+T = 25.000000 
+
+---------------------------------------
+
+Episode 2 ==> CRASH {-0.18,-0.19,38.54}    04/12/2020 09:36:36
+episode time: 4.91 s (avg step: 0.21 s) 
+episode steps: 23 
+episode reward: -104.50 
+episode max | avg | min reward: 0.00 | -4.75 | -100.00 
+T = 23.750000 
+
+---------------------------------------
+
+Episode 3 ==> CRASH {-0.06,-0.26,22.67}    04/12/2020 09:36:39
+episode time: 6.14 s (avg step: 0.21 s) 
+episode steps: 29 
+episode reward: -106.30 
+episode max | avg | min reward: 0.00 | -3.80 | -100.00 
+T = 22.562500 
+
+---------------------------------------
+
+Episode 4 ==> CRASH {-0.16,-0.21,38.85}    04/12/2020 09:36:41
+episode time: 5.09 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -105.10 
+episode max | avg | min reward: 0.00 | -4.57 | -100.00 
+T = 21.434375 
+
+---------------------------------------
+
+Episode 5 ==> CRASH {-0.18,-0.18,52.98}    04/12/2020 09:36:44
+episode time: 5.45 s (avg step: 0.22 s) 
+episode steps: 25 
+episode reward: -105.40 
+episode max | avg | min reward: 0.00 | -4.39 | -100.00 
+T = 20.362656 
+
+---------------------------------------
+
+Episode 6 ==> CRASH {-0.25,-0.05,77.18}    04/12/2020 09:36:46
+episode time: 6.37 s (avg step: 0.22 s) 
+episode steps: 29 
+episode reward: -104.60 
+episode max | avg | min reward: 0.10 | -3.74 | -100.00 
+T = 19.344523 
+
+---------------------------------------
+
+Episode 7 ==> CRASH {-0.21,-0.12,63.33}    04/12/2020 09:36:49
+episode time: 5.68 s (avg step: 0.21 s) 
+episode steps: 27 
+episode reward: -105.70 
+episode max | avg | min reward: 0.00 | -4.07 | -100.00 
+T = 18.377297 
+
+---------------------------------------
+
+Episode 8 ==> CRASH {-0.15,-0.21,17.67}    04/12/2020 09:36:51
+episode time: 4.90 s (avg step: 0.21 s) 
+episode steps: 23 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -4.71 | -100.00 
+T = 17.458432 
+
+---------------------------------------
+
+Episode 9 ==> CRASH {-0.15,-0.20,58.01}    04/12/2020 09:36:54
+episode time: 5.31 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -4.28 | -100.00 
+T = 16.585511 
+
+---------------------------------------
+
+Episode 10 ==> CRASH {-0.22,-0.11,60.76}    04/12/2020 09:36:57
+episode time: 5.53 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -104.20 
+episode max | avg | min reward: 0.00 | -4.17 | -100.00 
+T = 15.756235 
+
+---------------------------------------
+
+Episode 11 ==> CRASH {-0.17,-0.17,54.60}    04/12/2020 09:36:59
+episode time: 5.11 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -104.20 
+episode max | avg | min reward: 0.00 | -4.53 | -100.00 
+T = 14.968423 
+
+---------------------------------------
+
+Episode 12 ==> CRASH {-0.16,-0.18,46.97}    04/12/2020 09:37:01
+episode time: 5.17 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -4.50 | -100.00 
+T = 14.220002 
+
+---------------------------------------
+
+Episode 13 ==> CRASH {-0.20,-0.12,55.00}    04/12/2020 09:37:03
+episode time: 4.94 s (avg step: 0.21 s) 
+episode steps: 23 
+episode reward: -101.80 
+episode max | avg | min reward: 0.00 | -4.63 | -100.00 
+T = 13.509002 
+
+---------------------------------------
+
+Episode 14 ==> CRASH {-0.18,-0.18,43.31}    04/12/2020 09:37:05
+episode time: 4.87 s (avg step: 0.21 s) 
+episode steps: 23 
+episode reward: -103.90 
+episode max | avg | min reward: 0.00 | -4.72 | -100.00 
+T = 12.833552 
+
+---------------------------------------
+
+Episode 15 ==> CRASH {-0.16,-0.17,54.47}    04/12/2020 09:37:07
+episode time: 5.34 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -104.20 
+episode max | avg | min reward: 0.00 | -4.34 | -100.00 
+T = 12.191874 
+
+---------------------------------------
+
+Episode 16 ==> CRASH {-0.18,-0.20,43.32}    04/12/2020 09:37:09
+episode time: 5.75 s (avg step: 0.21 s) 
+episode steps: 27 
+episode reward: -105.70 
+episode max | avg | min reward: 0.00 | -4.07 | -100.00 
+T = 11.582281 
+
+---------------------------------------
+
+Episode 17 ==> CRASH {-0.18,-0.19,53.17}    04/12/2020 09:37:11
+episode time: 5.17 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -104.80 
+episode max | avg | min reward: 0.00 | -4.56 | -100.00 
+T = 11.003167 
+
+---------------------------------------
+
+Episode 18 ==> CRASH {-0.18,-0.18,52.56}    04/12/2020 09:37:13
+episode time: 5.18 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -104.50 
+episode max | avg | min reward: 0.00 | -4.54 | -100.00 
+T = 10.453008 
+
+---------------------------------------
+
+Episode 19 ==> CRASH {-0.17,-0.19,46.89}    04/12/2020 09:37:16
+episode time: 5.65 s (avg step: 0.21 s) 
+episode steps: 27 
+episode reward: -104.50 
+episode max | avg | min reward: 0.00 | -4.02 | -100.00 
+T = 9.930358 
+
+---------------------------------------
+
+Episode 20 ==> CRASH {-0.18,-0.17,56.67}    04/12/2020 09:37:18
+episode time: 5.13 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -103.30 
+episode max | avg | min reward: 0.00 | -4.49 | -100.00 
+T = 9.433840 
+
+---------------------------------------
+
+Episode 21 ==> CRASH {-0.19,-0.19,51.49}    04/12/2020 09:37:20
+episode time: 5.02 s (avg step: 0.23 s) 
+episode steps: 22 
+episode reward: -102.40 
+episode max | avg | min reward: 0.00 | -4.88 | -100.00 
+T = 8.962148 
+
+---------------------------------------
+
+Episode 22 ==> CRASH {-0.16,-0.19,37.68}    04/12/2020 09:37:21
+episode time: 4.72 s (avg step: 0.21 s) 
+episode steps: 22 
+episode reward: -101.10 
+episode max | avg | min reward: 0.10 | -4.81 | -100.00 
+T = 8.514041 
+
+---------------------------------------
+
+Episode 23 ==> CRASH {-0.14,-0.19,36.91}    04/12/2020 09:37:23
+episode time: 4.97 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -102.40 
+episode max | avg | min reward: 0.00 | -4.65 | -100.00 
+T = 8.088339 
+
+---------------------------------------
+
+Episode 24 ==> CRASH {-0.18,-0.18,34.28}    04/12/2020 09:37:25
+episode time: 4.72 s (avg step: 0.21 s) 
+episode steps: 22 
+episode reward: -103.00 
+episode max | avg | min reward: 0.00 | -4.90 | -100.00 
+T = 7.683922 
+
+---------------------------------------
+
+Episode 25 ==> CRASH {-0.14,-0.21,21.87}    04/12/2020 09:37:28
+episode time: 5.70 s (avg step: 0.21 s) 
+episode steps: 27 
+episode reward: -105.40 
+episode max | avg | min reward: 0.00 | -4.05 | -100.00 
+T = 7.299726 
+
+---------------------------------------
+
+Episode 26 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:37:52
+episode time: 60.63 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -19.30 
+episode max | avg | min reward: 0.40 | -0.06 | -0.30 
+T = 6.934739 
+
+---------------------------------------
+
+Episode 27 ==> CRASH {-0.19,-0.15,28.56}    04/12/2020 09:37:54
+episode time: 5.42 s (avg step: 0.22 s) 
+episode steps: 25 
+episode reward: -104.20 
+episode max | avg | min reward: 0.00 | -4.34 | -100.00 
+T = 6.588002 
+
+---------------------------------------
+
+Episode 28 ==> CRASH {-0.11,-0.23,29.70}    04/12/2020 09:37:56
+episode time: 5.57 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -103.90 
+episode max | avg | min reward: 0.00 | -4.16 | -100.00 
+T = 6.258602 
+
+---------------------------------------
+
+Episode 29 ==> CRASH {-0.18,-0.18,15.21}    04/12/2020 09:37:59
+episode time: 5.56 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -106.60 
+episode max | avg | min reward: 0.00 | -4.26 | -100.00 
+T = 5.945672 
+
+---------------------------------------
+
+Episode 30 ==> CRASH {-0.06,-0.26,22.88}    04/12/2020 09:38:01
+episode time: 5.39 s (avg step: 0.22 s) 
+episode steps: 25 
+episode reward: -101.50 
+episode max | avg | min reward: 0.00 | -4.23 | -100.00 
+T = 5.648389 
+
+---------------------------------------
+
+Episode 31 ==> CRASH {-0.18,-0.18,17.84}    04/12/2020 09:38:03
+episode time: 5.29 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -105.70 
+episode max | avg | min reward: 0.00 | -4.40 | -100.00 
+T = 5.365969 
+
+---------------------------------------
+
+Episode 32 ==> CRASH {1.05,-0.85,-73.88}    04/12/2020 09:38:13
+episode time: 24.89 s (avg step: 0.20 s) 
+episode steps: 122 
+episode reward: -108.10 
+episode max | avg | min reward: 0.40 | -0.89 | -100.00 
+T = 5.097671 
+
+---------------------------------------
+
+Episode 33 ==> CRASH {-0.22,-0.12,59.39}    04/12/2020 09:38:15
+episode time: 5.52 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -104.80 
+episode max | avg | min reward: 0.00 | -4.19 | -100.00 
+T = 4.842787 
+
+---------------------------------------
+
+Episode 34 ==> CRASH {-0.15,-0.20,11.88}    04/12/2020 09:38:17
+episode time: 5.02 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -102.10 
+episode max | avg | min reward: 0.00 | -4.64 | -100.00 
+T = 4.600648 
+
+---------------------------------------
+
+Episode 35 ==> CRASH {-0.23,-0.12,63.66}    04/12/2020 09:38:19
+episode time: 5.46 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -105.40 
+episode max | avg | min reward: 0.00 | -4.22 | -100.00 
+T = 4.370615 
+
+---------------------------------------
+
+Episode 36 ==> CRASH {0.99,-0.87,-27.85}    04/12/2020 09:38:29
+episode time: 24.27 s (avg step: 0.20 s) 
+episode steps: 119 
+episode reward: -112.10 
+episode max | avg | min reward: 0.40 | -0.95 | -100.00 
+T = 4.152085 
+
+---------------------------------------
+
+Episode 37 ==> CRASH {-0.62,2.43,155.51}    04/12/2020 09:38:47
+episode time: 45.93 s (avg step: 0.20 s) 
+episode steps: 227 
+episode reward: -116.50 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 3.944480 
+
+---------------------------------------
+
+Episode 38 ==> CRASH {-0.24,-0.12,98.33}    04/12/2020 09:38:50
+episode time: 5.82 s (avg step: 0.22 s) 
+episode steps: 27 
+episode reward: -103.60 
+episode max | avg | min reward: 0.10 | -3.98 | -100.00 
+T = 3.747256 
+
+---------------------------------------
+
+Episode 39 ==> CRASH {-0.94,-0.89,-50.51}    04/12/2020 09:39:08
+episode time: 47.55 s (avg step: 0.20 s) 
+episode steps: 234 
+episode reward: -127.00 
+episode max | avg | min reward: 0.40 | -0.55 | -100.00 
+T = 3.559894 
+
+---------------------------------------
+
+Episode 40 ==> CRASH {-2.30,0.88,-126.87}    04/12/2020 09:39:26
+episode time: 46.35 s (avg step: 0.20 s) 
+episode steps: 229 
+episode reward: -109.50 
+episode max | avg | min reward: 0.40 | -0.48 | -100.00 
+T = 3.381899 
+
+---------------------------------------
+
+Episode 41 ==> CRASH {0.88,-0.13,4.93}    04/12/2020 09:39:35
+episode time: 21.39 s (avg step: 0.20 s) 
+episode steps: 105 
+episode reward: -113.80 
+episode max | avg | min reward: 0.40 | -1.09 | -100.00 
+T = 3.212804 
+
+---------------------------------------
+
+Episode 42 ==> CRASH {1.17,-2.17,44.90}    04/12/2020 09:39:55
+episode time: 52.54 s (avg step: 0.20 s) 
+episode steps: 260 
+episode reward: -118.20 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 3.052164 
+
+---------------------------------------
+
+Episode 43 ==> CRASH {-0.04,-0.27,16.84}    04/12/2020 09:39:58
+episode time: 6.53 s (avg step: 0.21 s) 
+episode steps: 31 
+episode reward: -105.60 
+episode max | avg | min reward: 0.40 | -3.52 | -100.00 
+T = 2.899556 
+
+---------------------------------------
+
+Episode 44 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:40:22
+episode time: 60.62 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -18.80 
+episode max | avg | min reward: 0.40 | -0.06 | -0.30 
+T = 2.754578 
+
+---------------------------------------
+
+Episode 45 ==> CRASH {-0.26,0.02,59.82}    04/12/2020 09:40:26
+episode time: 7.84 s (avg step: 0.21 s) 
+episode steps: 37 
+episode reward: -106.20 
+episode max | avg | min reward: 0.40 | -2.95 | -100.00 
+T = 2.616849 
+
+---------------------------------------
+
+Episode 46 ==> CRASH {0.05,-0.26,16.97}    04/12/2020 09:40:29
+episode time: 8.29 s (avg step: 0.21 s) 
+episode steps: 40 
+episode reward: -104.50 
+episode max | avg | min reward: 0.40 | -2.68 | -100.00 
+T = 2.486006 
+
+---------------------------------------
+
+Episode 47 ==> CRASH {-0.21,-0.15,83.44}    04/12/2020 09:40:31
+episode time: 4.98 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -4.67 | -100.00 
+T = 2.361706 
+
+---------------------------------------
+
+Episode 48 ==> CRASH {-0.12,-0.24,-4.64}    04/12/2020 09:40:33
+episode time: 5.12 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -102.90 
+episode max | avg | min reward: 0.10 | -4.47 | -100.00 
+T = 2.243621 
+
+---------------------------------------
+
+Episode 49 ==> CRASH {-1.20,-2.10,-100.52}    04/12/2020 09:40:57
+episode time: 59.84 s (avg step: 0.20 s) 
+episode steps: 296 
+episode reward: -128.20 
+episode max | avg | min reward: 0.40 | -0.43 | -100.00 
+T = 2.131440 
+
+---------------------------------------
+
+Episode 50 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:41:22
+episode time: 60.65 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -11.90 
+episode max | avg | min reward: 0.40 | -0.04 | -0.30 
+T = 2.024868 
+
+---------------------------------------
+
+Episode 51 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:41:47
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -12.30 
+episode max | avg | min reward: 0.40 | -0.04 | -0.30 
+T = 1.923624 
+
+---------------------------------------
+
+Episode 52 ==> CRASH {-1.08,2.32,-155.59}    04/12/2020 09:42:07
+episode time: 47.43 s (avg step: 0.20 s) 
+episode steps: 232 
+episode reward: -118.90 
+episode max | avg | min reward: 0.40 | -0.51 | -100.00 
+T = 1.827443 
+
+---------------------------------------
+
+Episode 53 ==> CRASH {-0.99,0.86,-156.06}    04/12/2020 09:42:17
+episode time: 25.40 s (avg step: 0.20 s) 
+episode steps: 125 
+episode reward: -107.40 
+episode max | avg | min reward: 0.40 | -0.87 | -100.00 
+T = 1.736071 
+
+---------------------------------------
+
+Episode 54 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:42:41
+episode time: 60.67 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -22.00 
+episode max | avg | min reward: 0.40 | -0.07 | -0.30 
+T = 1.649267 
+
+---------------------------------------
+
+Episode 55 ==> CRASH {-0.17,-0.19,21.86}    04/12/2020 09:42:43
+episode time: 4.62 s (avg step: 0.22 s) 
+episode steps: 21 
+episode reward: -101.50 
+episode max | avg | min reward: 0.00 | -5.08 | -100.00 
+T = 1.566804 
+
+---------------------------------------
+
+Episode 56 ==> CRASH {-0.21,-0.14,83.91}    04/12/2020 09:42:46
+episode time: 5.40 s (avg step: 0.23 s) 
+episode steps: 24 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -4.50 | -100.00 
+T = 1.488464 
+
+---------------------------------------
+
+Episode 57 ==> CRASH {-0.22,-0.13,89.68}    04/12/2020 09:42:48
+episode time: 5.10 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -103.30 
+episode max | avg | min reward: 0.00 | -4.49 | -100.00 
+T = 1.414041 
+
+---------------------------------------
+
+Episode 58 ==> CRASH {-0.21,-0.13,70.31}    04/12/2020 09:42:50
+episode time: 5.09 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -102.40 
+episode max | avg | min reward: 0.00 | -4.45 | -100.00 
+T = 1.343339 
+
+---------------------------------------
+
+Episode 59 ==> CRASH {-0.23,-0.10,62.23}    04/12/2020 09:42:52
+episode time: 6.32 s (avg step: 0.21 s) 
+episode steps: 30 
+episode reward: -108.10 
+episode max | avg | min reward: 0.00 | -3.73 | -100.00 
+T = 1.276172 
+
+---------------------------------------
+
+Episode 60 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:43:17
+episode time: 60.63 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -10.90 
+episode max | avg | min reward: 0.40 | -0.04 | -0.30 
+T = 1.212363 
+
+---------------------------------------
+
+Episode 61 ==> CRASH {-0.13,-0.22,0.92}    04/12/2020 09:43:19
+episode time: 5.01 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -4.67 | -100.00 
+T = 1.151745 
+
+---------------------------------------
+
+Episode 62 ==> CRASH {-0.20,-0.17,68.83}    04/12/2020 09:43:21
+episode time: 4.81 s (avg step: 0.22 s) 
+episode steps: 22 
+episode reward: -102.10 
+episode max | avg | min reward: 0.00 | -4.86 | -100.00 
+T = 1.094158 
+
+---------------------------------------
+
+Episode 63 ==> CRASH {1.93,-1.50,-106.52}    04/12/2020 09:43:41
+episode time: 46.98 s (avg step: 0.20 s) 
+episode steps: 232 
+episode reward: -113.50 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 1.039450 
+
+---------------------------------------
+
+Episode 64 ==> CRASH {1.91,-1.57,-31.15}    04/12/2020 09:43:59
+episode time: 45.68 s (avg step: 0.20 s) 
+episode steps: 225 
+episode reward: -110.60 
+episode max | avg | min reward: 0.40 | -0.49 | -100.00 
+T = 0.987477 
+
+---------------------------------------
+
+Episode 65 ==> CRASH {-1.74,-1.83,-82.07}    04/12/2020 09:44:18
+episode time: 48.57 s (avg step: 0.20 s) 
+episode steps: 240 
+episode reward: -125.80 
+episode max | avg | min reward: 0.40 | -0.53 | -100.00 
+T = 0.938103 
+
+---------------------------------------
+
+Episode 66 ==> CRASH {-0.22,-0.12,57.25}    04/12/2020 09:44:21
+episode time: 5.70 s (avg step: 0.21 s) 
+episode steps: 27 
+episode reward: -102.40 
+episode max | avg | min reward: 0.00 | -3.94 | -100.00 
+T = 0.891198 
+
+---------------------------------------
+
+Episode 67 ==> CRASH {1.04,-0.87,-45.63}    04/12/2020 09:44:30
+episode time: 24.28 s (avg step: 0.20 s) 
+episode steps: 119 
+episode reward: -107.90 
+episode max | avg | min reward: 0.40 | -0.91 | -100.00 
+T = 0.846638 
+
+---------------------------------------
+
+Episode 68 ==> CRASH {1.01,-0.87,-36.08}    04/12/2020 09:44:41
+episode time: 25.57 s (avg step: 0.20 s) 
+episode steps: 125 
+episode reward: -107.90 
+episode max | avg | min reward: 0.40 | -0.87 | -100.00 
+T = 0.804306 
+
+---------------------------------------
+
+Episode 69 ==> CRASH {1.02,-0.87,-39.44}    04/12/2020 09:44:50
+episode time: 23.61 s (avg step: 0.20 s) 
+episode steps: 116 
+episode reward: -104.70 
+episode max | avg | min reward: 0.40 | -0.91 | -100.00 
+T = 0.764091 
+
+---------------------------------------
+
+Episode 70 ==> CRASH {0.88,-0.11,11.53}    04/12/2020 09:44:58
+episode time: 20.85 s (avg step: 0.20 s) 
+episode steps: 102 
+episode reward: -112.80 
+episode max | avg | min reward: 0.40 | -1.12 | -100.00 
+T = 0.725887 
+
+---------------------------------------
+
+Episode 71 ==> CRASH {2.37,-0.30,88.65}    04/12/2020 09:45:18
+episode time: 51.02 s (avg step: 0.20 s) 
+episode steps: 251 
+episode reward: -108.00 
+episode max | avg | min reward: 0.40 | -0.43 | -100.00 
+T = 0.689592 
+
+---------------------------------------
+
+Episode 72 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:45:43
+episode time: 61.11 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -4.60 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 0.655113 
+
+---------------------------------------
+
+Episode 73 ==> CRASH {1.19,-2.15,10.84}    04/12/2020 09:46:01
+episode time: 45.85 s (avg step: 0.20 s) 
+episode steps: 226 
+episode reward: -117.00 
+episode max | avg | min reward: 0.40 | -0.52 | -100.00 
+T = 0.622357 
+
+---------------------------------------
+
+Episode 74 ==> CRASH {-0.19,-0.16,49.30}    04/12/2020 09:46:03
+episode time: 5.66 s (avg step: 0.22 s) 
+episode steps: 26 
+episode reward: -106.30 
+episode max | avg | min reward: 0.00 | -4.25 | -100.00 
+T = 0.591239 
+
+---------------------------------------
+
+Episode 75 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:46:27
+episode time: 60.66 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -26.90 
+episode max | avg | min reward: 0.40 | -0.09 | -0.30 
+T = 0.561677 
+
+---------------------------------------
+
+Episode 76 ==> CRASH {-0.19,-0.16,10.03}    04/12/2020 09:46:29
+episode time: 5.82 s (avg step: 0.22 s) 
+episode steps: 27 
+episode reward: -107.20 
+episode max | avg | min reward: 0.00 | -4.12 | -100.00 
+T = 0.533593 
+
+---------------------------------------
+
+Episode 77 ==> CRASH {1.11,-2.30,22.48}    04/12/2020 09:46:49
+episode time: 49.79 s (avg step: 0.20 s) 
+episode steps: 246 
+episode reward: -113.20 
+episode max | avg | min reward: 0.40 | -0.46 | -100.00 
+T = 0.506914 
+
+---------------------------------------
+
+Episode 78 ==> CRASH {-0.17,-0.17,49.88}    04/12/2020 09:46:51
+episode time: 4.89 s (avg step: 0.21 s) 
+episode steps: 23 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -4.67 | -100.00 
+T = 0.481568 
+
+---------------------------------------
+
+Episode 79 ==> CRASH {1.04,-0.86,-69.79}    04/12/2020 09:47:01
+episode time: 24.80 s (avg step: 0.20 s) 
+episode steps: 122 
+episode reward: -111.50 
+episode max | avg | min reward: 0.40 | -0.92 | -100.00 
+T = 0.457490 
+
+---------------------------------------
+
+Episode 80 ==> CRASH {-0.19,-0.17,17.68}    04/12/2020 09:47:03
+episode time: 5.36 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -105.40 
+episode max | avg | min reward: 0.00 | -4.39 | -100.00 
+T = 0.434615 
+
+---------------------------------------
+
+Episode 81 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:47:29
+episode time: 60.62 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -6.40 
+episode max | avg | min reward: 0.40 | -0.02 | -0.30 
+T = 0.412884 
+
+---------------------------------------
+
+Episode 82 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:47:54
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 10.40 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.392240 
+
+---------------------------------------
+
+Episode 83 ==> CRASH {-0.18,-0.17,15.78}    04/12/2020 09:47:56
+episode time: 5.63 s (avg step: 0.23 s) 
+episode steps: 25 
+episode reward: -105.40 
+episode max | avg | min reward: 0.00 | -4.39 | -100.00 
+T = 0.372628 
+
+---------------------------------------
+
+Episode 84 ==> CRASH {-0.18,-0.16,10.39}    04/12/2020 09:47:59
+episode time: 6.33 s (avg step: 0.21 s) 
+episode steps: 30 
+episode reward: -107.50 
+episode max | avg | min reward: 0.00 | -3.71 | -100.00 
+T = 0.353997 
+
+---------------------------------------
+
+Episode 85 ==> CRASH {-0.18,-0.19,28.37}    04/12/2020 09:48:01
+episode time: 4.85 s (avg step: 0.22 s) 
+episode steps: 22 
+episode reward: -102.40 
+episode max | avg | min reward: 0.00 | -4.88 | -100.00 
+T = 0.336297 
+
+---------------------------------------
+
+Episode 86 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:48:25
+episode time: 60.64 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -15.50 
+episode max | avg | min reward: 0.40 | -0.05 | -0.30 
+T = 0.319482 
+
+---------------------------------------
+
+Episode 87 ==> CRASH {-0.18,-0.18,58.41}    04/12/2020 09:48:27
+episode time: 5.25 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -4.50 | -100.00 
+T = 0.303508 
+
+---------------------------------------
+
+Episode 88 ==> CRASH {-0.21,-0.16,42.23}    04/12/2020 09:48:30
+episode time: 5.65 s (avg step: 0.22 s) 
+episode steps: 26 
+episode reward: -106.60 
+episode max | avg | min reward: 0.00 | -4.26 | -100.00 
+T = 0.288333 
+
+---------------------------------------
+
+Episode 89 ==> CRASH {-0.19,-0.15,48.95}    04/12/2020 09:48:32
+episode time: 4.54 s (avg step: 0.22 s) 
+episode steps: 21 
+episode reward: -100.90 
+episode max | avg | min reward: 0.00 | -5.04 | -100.00 
+T = 0.273916 
+
+---------------------------------------
+
+Episode 90 ==> CRASH {-0.21,-0.15,53.17}    04/12/2020 09:48:34
+episode time: 4.50 s (avg step: 0.21 s) 
+episode steps: 21 
+episode reward: -101.20 
+episode max | avg | min reward: 0.00 | -5.06 | -100.00 
+T = 0.260220 
+
+---------------------------------------
+
+Episode 91 ==> CRASH {-0.21,-0.10,57.76}    04/12/2020 09:48:36
+episode time: 5.37 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -103.30 
+episode max | avg | min reward: 0.00 | -4.30 | -100.00 
+T = 0.247209 
+
+---------------------------------------
+
+Episode 92 ==> CRASH {-0.22,-0.11,56.76}    04/12/2020 09:48:38
+episode time: 5.16 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -103.30 
+episode max | avg | min reward: 0.00 | -4.49 | -100.00 
+T = 0.234849 
+
+---------------------------------------
+
+Episode 93 ==> CRASH {-0.21,-0.12,56.11}    04/12/2020 09:48:40
+episode time: 4.86 s (avg step: 0.21 s) 
+episode steps: 23 
+episode reward: -102.10 
+episode max | avg | min reward: 0.00 | -4.64 | -100.00 
+T = 0.223106 
+
+---------------------------------------
+
+Episode 94 ==> CRASH {-0.23,-0.12,57.11}    04/12/2020 09:48:42
+episode time: 5.25 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -103.90 
+episode max | avg | min reward: 0.00 | -4.52 | -100.00 
+T = 0.211951 
+
+---------------------------------------
+
+Episode 95 ==> CRASH {-0.22,-0.11,57.68}    04/12/2020 09:48:44
+episode time: 5.35 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -103.90 
+episode max | avg | min reward: 0.00 | -4.33 | -100.00 
+T = 0.201353 
+
+---------------------------------------
+
+Episode 96 ==> CRASH {-0.96,-0.21,161.66}    04/12/2020 09:49:06
+episode time: 53.23 s (avg step: 0.20 s) 
+episode steps: 263 
+episode reward: -117.00 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.191286 
+
+---------------------------------------
+
+Episode 97 ==> CRASH {-0.22,-0.12,56.35}    04/12/2020 09:49:08
+episode time: 5.19 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -103.30 
+episode max | avg | min reward: 0.00 | -4.49 | -100.00 
+T = 0.181721 
+
+---------------------------------------
+
+Episode 98 ==> CRASH {-0.22,-0.13,56.43}    04/12/2020 09:49:10
+episode time: 4.69 s (avg step: 0.21 s) 
+episode steps: 22 
+episode reward: -102.10 
+episode max | avg | min reward: 0.00 | -4.86 | -100.00 
+T = 0.172635 
+
+---------------------------------------
+
+Episode 99 ==> CRASH {-0.19,-0.15,51.77}    04/12/2020 09:49:12
+episode time: 5.59 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -103.00 
+episode max | avg | min reward: 0.00 | -4.12 | -100.00 
+T = 0.164004 
+
+---------------------------------------
+
+Episode 100 ==> CRASH {-0.22,-0.11,57.53}    04/12/2020 09:49:15
+episode time: 5.25 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -103.00 
+episode max | avg | min reward: 0.00 | -4.48 | -100.00 
+T = 0.155803 
+
+---------------------------------------
+
+Episode 101 ==> CRASH {-0.22,-0.14,55.42}    04/12/2020 09:49:16
+episode time: 4.57 s (avg step: 0.22 s) 
+episode steps: 21 
+episode reward: -101.50 
+episode max | avg | min reward: 0.00 | -5.08 | -100.00 
+T = 0.148013 
+
+---------------------------------------
+
+Episode 102 ==> CRASH {-0.20,-0.13,56.64}    04/12/2020 09:49:19
+episode time: 5.49 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -4.14 | -100.00 
+T = 0.140613 
+
+---------------------------------------
+
+Episode 103 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:49:43
+episode time: 60.61 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 7.40 
+episode max | avg | min reward: 0.40 | 0.02 | -0.30 
+T = 0.133582 
+
+---------------------------------------
+
+Episode 104 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:50:08
+episode time: 60.72 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 25.60 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.126903 
+
+---------------------------------------
+
+Episode 105 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:50:32
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 21.30 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.120558 
+
+---------------------------------------
+
+Episode 106 ==> CRASH {-0.21,-0.10,56.17}    04/12/2020 09:50:34
+episode time: 6.62 s (avg step: 0.21 s) 
+episode steps: 31 
+episode reward: -105.70 
+episode max | avg | min reward: 0.00 | -3.52 | -100.00 
+T = 0.114530 
+
+---------------------------------------
+
+Episode 107 ==> CRASH {1.06,-0.86,-50.06}    04/12/2020 09:50:43
+episode time: 22.35 s (avg step: 0.21 s) 
+episode steps: 109 
+episode reward: -97.60 
+episode max | avg | min reward: 0.40 | -0.90 | -100.00 
+T = 0.108803 
+
+---------------------------------------
+
+Episode 108 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:51:08
+episode time: 60.85 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 34.90 
+episode max | avg | min reward: 0.40 | 0.12 | -0.30 
+T = 0.103363 
+
+---------------------------------------
+
+Episode 109 ==> CRASH {-0.21,-0.14,59.43}    04/12/2020 09:51:10
+episode time: 5.01 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -4.67 | -100.00 
+T = 0.098195 
+
+---------------------------------------
+
+Episode 110 ==> CRASH {1.05,-0.86,-52.38}    04/12/2020 09:51:19
+episode time: 21.88 s (avg step: 0.20 s) 
+episode steps: 107 
+episode reward: -98.60 
+episode max | avg | min reward: 0.40 | -0.93 | -100.00 
+T = 0.093285 
+
+---------------------------------------
+
+Episode 111 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:51:43
+episode time: 60.72 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 23.90 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.088621 
+
+---------------------------------------
+
+Episode 112 ==> CRASH {-0.22,-0.12,59.11}    04/12/2020 09:51:46
+episode time: 6.04 s (avg step: 0.22 s) 
+episode steps: 28 
+episode reward: -103.70 
+episode max | avg | min reward: 0.10 | -3.84 | -100.00 
+T = 0.084190 
+
+---------------------------------------
+
+Episode 113 ==> CRASH {-0.22,-0.11,57.71}    04/12/2020 09:51:48
+episode time: 5.37 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -4.32 | -100.00 
+T = 0.079980 
+
+---------------------------------------
+
+Episode 114 ==> CRASH {-0.22,-0.12,55.31}    04/12/2020 09:51:50
+episode time: 5.12 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -4.50 | -100.00 
+T = 0.075981 
+
+---------------------------------------
+
+Episode 115 ==> CRASH {-0.20,-0.12,55.29}    04/12/2020 09:51:52
+episode time: 5.30 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -103.30 
+episode max | avg | min reward: 0.00 | -4.30 | -100.00 
+T = 0.072182 
+
+---------------------------------------
+
+Episode 116 ==> CRASH {-0.21,-0.11,56.37}    04/12/2020 09:51:55
+episode time: 5.09 s (avg step: 0.21 s) 
+episode steps: 24 
+episode reward: -103.30 
+episode max | avg | min reward: 0.00 | -4.49 | -100.00 
+T = 0.068573 
+
+---------------------------------------
+
+Episode 117 ==> CRASH {-0.22,-0.12,56.26}    04/12/2020 09:51:57
+episode time: 5.25 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -103.60 
+episode max | avg | min reward: 0.00 | -4.50 | -100.00 
+T = 0.065145 
+
+---------------------------------------
+
+Episode 118 ==> CRASH {-0.21,-0.11,57.04}    04/12/2020 09:51:59
+episode time: 5.21 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -4.47 | -100.00 
+T = 0.061887 
+
+---------------------------------------
+
+Episode 119 ==> CRASH {-0.21,-0.13,52.90}    04/12/2020 09:52:01
+episode time: 5.07 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -102.00 
+episode max | avg | min reward: 0.10 | -4.64 | -100.00 
+T = 0.058793 
+
+---------------------------------------
+
+Episode 120 ==> CRASH {-0.22,-0.11,56.73}    04/12/2020 09:52:03
+episode time: 5.29 s (avg step: 0.21 s) 
+episode steps: 25 
+episode reward: -103.20 
+episode max | avg | min reward: 0.10 | -4.30 | -100.00 
+T = 0.055853 
+
+---------------------------------------
+
+Episode 121 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:52:27
+episode time: 60.60 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 9.70 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.053061 
+
+---------------------------------------
+
+Episode 122 ==> CRASH {-0.22,-0.15,55.57}    04/12/2020 09:52:29
+episode time: 4.82 s (avg step: 0.23 s) 
+episode steps: 21 
+episode reward: -100.90 
+episode max | avg | min reward: 0.00 | -5.04 | -100.00 
+T = 0.050408 
+
+---------------------------------------
+
+Episode 123 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:52:56
+episode time: 60.66 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 24.80 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.047887 
+
+---------------------------------------
+
+Episode 124 ==> CRASH {-0.21,-0.13,56.33}    04/12/2020 09:52:58
+episode time: 4.84 s (avg step: 0.22 s) 
+episode steps: 22 
+episode reward: -100.60 
+episode max | avg | min reward: 0.00 | -4.79 | -100.00 
+T = 0.045493 
+
+---------------------------------------
+
+Episode 125 ==> CRASH {-0.21,-0.12,58.99}    04/12/2020 09:53:00
+episode time: 5.03 s (avg step: 0.23 s) 
+episode steps: 22 
+episode reward: -100.90 
+episode max | avg | min reward: 0.00 | -4.80 | -100.00 
+T = 0.043218 
+
+---------------------------------------
+
+Episode 126 ==> CRASH {-0.22,-0.11,59.73}    04/12/2020 09:53:02
+episode time: 5.45 s (avg step: 0.23 s) 
+episode steps: 24 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -4.47 | -100.00 
+T = 0.041057 
+
+---------------------------------------
+
+Episode 127 ==> CRASH {-0.22,-0.14,58.27}    04/12/2020 09:53:04
+episode time: 4.50 s (avg step: 0.21 s) 
+episode steps: 21 
+episode reward: -101.20 
+episode max | avg | min reward: 0.00 | -5.06 | -100.00 
+T = 0.039004 
+
+---------------------------------------
+
+Episode 128 ==> CRASH {-0.22,-0.12,58.42}    04/12/2020 09:53:06
+episode time: 4.97 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -102.10 
+episode max | avg | min reward: 0.00 | -4.64 | -100.00 
+T = 0.037054 
+
+---------------------------------------
+
+Episode 129 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:53:30
+episode time: 60.65 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 37.70 
+episode max | avg | min reward: 0.40 | 0.13 | -0.30 
+T = 0.035202 
+
+---------------------------------------
+
+Episode 130 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:53:54
+episode time: 60.72 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 27.40 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.033441 
+
+---------------------------------------
+
+Episode 131 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:54:19
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 8.60 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.031769 
+
+---------------------------------------
+
+Episode 132 ==> CRASH {1.90,-1.53,-116.51}    04/12/2020 09:54:37
+episode time: 45.01 s (avg step: 0.20 s) 
+episode steps: 222 
+episode reward: -79.20 
+episode max | avg | min reward: 0.40 | -0.36 | -100.00 
+T = 0.030181 
+
+---------------------------------------
+
+Episode 133 ==> CRASH {2.08,-1.26,-63.09}    04/12/2020 09:54:55
+episode time: 43.36 s (avg step: 0.20 s) 
+episode steps: 214 
+episode reward: -86.40 
+episode max | avg | min reward: 0.40 | -0.41 | -100.00 
+T = 0.028672 
+
+---------------------------------------
+
+Episode 134 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:55:19
+episode time: 60.69 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 32.70 
+episode max | avg | min reward: 0.40 | 0.11 | -0.30 
+T = 0.027238 
+
+---------------------------------------
+
+Episode 135 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:55:43
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 20.30 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.025876 
+
+---------------------------------------
+
+Episode 136 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:56:08
+episode time: 60.88 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 25.50 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.024583 
+
+---------------------------------------
+
+Episode 137 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:56:31
+episode time: 60.72 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 30.90 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.023353 
+
+---------------------------------------
+
+Episode 138 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:56:56
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 21.50 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.022186 
+
+---------------------------------------
+
+Episode 139 ==> CRASH {-0.23,-0.14,60.64}    04/12/2020 09:56:58
+episode time: 5.01 s (avg step: 0.22 s) 
+episode steps: 23 
+episode reward: -103.00 
+episode max | avg | min reward: 0.00 | -4.68 | -100.00 
+T = 0.021076 
+
+---------------------------------------
+
+Episode 140 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:57:22
+episode time: 60.56 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 31.20 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.020023 
+
+---------------------------------------
+
+Episode 141 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:57:46
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 33.30 
+episode max | avg | min reward: 0.40 | 0.11 | -0.30 
+T = 0.019021 
+
+---------------------------------------
+
+Episode 142 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:58:11
+episode time: 60.89 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 34.00 
+episode max | avg | min reward: 0.40 | 0.11 | -0.30 
+T = 0.018070 
+
+---------------------------------------
+
+Episode 143 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:58:36
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 34.90 
+episode max | avg | min reward: 0.40 | 0.12 | -0.30 
+T = 0.017167 
+
+---------------------------------------
+
+Episode 144 ==> CRASH {-1.01,-1.34,128.62}    04/12/2020 09:59:00
+episode time: 60.89 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -74.40 
+episode max | avg | min reward: 0.40 | -0.25 | -100.00 
+T = 0.016309 
+
+---------------------------------------
+
+Episode 145 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:59:24
+episode time: 60.60 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 17.40 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.015493 
+
+---------------------------------------
+
+Episode 146 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 09:59:47
+episode time: 60.69 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 4.40 
+episode max | avg | min reward: 0.40 | 0.01 | -0.30 
+T = 0.014718 
+
+---------------------------------------
+
+Episode 147 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:00:12
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 26.20 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.013983 
+
+---------------------------------------
+
+Episode 148 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:00:36
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 30.20 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.013283 
+
+---------------------------------------
+
+Episode 149 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:01:02
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 16.30 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.012619 
+
+---------------------------------------
+
+Episode 150 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:01:29
+episode time: 60.73 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 22.80 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.011988 
+
+---------------------------------------
+
+Episode 151 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:01:54
+episode time: 60.89 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 27.80 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.011389 
+
+---------------------------------------
+
+Episode 152 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:02:18
+episode time: 60.72 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 23.00 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.010819 
+
+---------------------------------------
+
+Episode 153 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:02:42
+episode time: 60.69 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 19.30 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.010278 
+
+---------------------------------------
+
+Episode 154 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:03:07
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 20.10 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.009765 
+
+---------------------------------------
+
+Episode 155 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:03:31
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 25.70 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.009276 
+
+---------------------------------------
+
+Episode 156 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:03:56
+episode time: 60.89 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 26.70 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.008812 
+
+---------------------------------------
+
+Episode 157 ==> CRASH {-0.20,-0.13,56.36}    04/12/2020 10:03:58
+episode time: 5.24 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -102.70 
+episode max | avg | min reward: 0.00 | -4.47 | -100.00 
+T = 0.008372 
+
+---------------------------------------
+
+Episode 158 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:04:24
+episode time: 60.59 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 22.50 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.007953 
+
+---------------------------------------
+
+Episode 159 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:04:48
+episode time: 60.69 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 25.00 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.007556 
+
+---------------------------------------
+
+Episode 160 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:05:12
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 22.70 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.007178 
+
+---------------------------------------
+
+Episode 161 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:05:37
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 19.90 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.006819 
+
+---------------------------------------
+
+Episode 162 ==> CRASH {2.18,-1.06,-88.63}    04/12/2020 10:05:54
+episode time: 44.23 s (avg step: 0.20 s) 
+episode steps: 218 
+episode reward: -98.60 
+episode max | avg | min reward: 0.40 | -0.45 | -100.00 
+T = 0.006478 
+
+---------------------------------------
+
+Episode 163 ==> CRASH {-0.20,-0.13,55.34}    04/12/2020 10:05:56
+episode time: 5.18 s (avg step: 0.23 s) 
+episode steps: 23 
+episode reward: -102.40 
+episode max | avg | min reward: 0.00 | -4.65 | -100.00 
+T = 0.006154 
+
+---------------------------------------
+
+Episode 164 ==> CRASH {2.16,-1.10,-85.91}    04/12/2020 10:06:14
+episode time: 44.97 s (avg step: 0.20 s) 
+episode steps: 222 
+episode reward: -102.80 
+episode max | avg | min reward: 0.40 | -0.47 | -100.00 
+T = 0.005846 
+
+---------------------------------------
+
+Episode 165 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:06:39
+episode time: 60.63 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 10.10 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.005554 
+
+---------------------------------------
+
+Episode 166 ==> CRASH {-0.22,-0.11,61.62}    04/12/2020 10:06:41
+episode time: 5.81 s (avg step: 0.22 s) 
+episode steps: 27 
+episode reward: -104.80 
+episode max | avg | min reward: 0.00 | -4.03 | -100.00 
+T = 0.005276 
+
+---------------------------------------
+
+Episode 167 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:07:06
+episode time: 60.87 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 13.70 
+episode max | avg | min reward: 0.40 | 0.05 | -0.30 
+T = 0.005013 
+
+---------------------------------------
+
+Episode 168 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:07:29
+episode time: 60.90 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 31.40 
+episode max | avg | min reward: 0.40 | 0.11 | -0.30 
+T = 0.004762 
+
+---------------------------------------
+
+Episode 169 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:07:54
+episode time: 60.69 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 29.90 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.004524 
+
+---------------------------------------
+
+Episode 170 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:08:19
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 26.30 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.004298 
+
+---------------------------------------
+
+Episode 171 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:08:44
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 9.00 
+episode max | avg | min reward: 0.40 | 0.03 | -0.30 
+T = 0.004083 
+
+---------------------------------------
+
+Episode 172 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:09:11
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 17.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.003879 
+
+---------------------------------------
+
+Episode 173 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:09:36
+episode time: 60.68 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 16.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.003685 
+
+---------------------------------------
+
+Episode 174 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:10:01
+episode time: 60.72 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 30.10 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.003500 
+
+---------------------------------------
+
+Episode 175 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:10:25
+episode time: 60.69 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 16.80 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.003325 
+
+---------------------------------------
+
+Episode 176 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:10:49
+episode time: 60.92 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 32.80 
+episode max | avg | min reward: 0.40 | 0.11 | -0.30 
+T = 0.003159 
+
+---------------------------------------
+
+Episode 177 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:11:13
+episode time: 60.68 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 28.70 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.003001 
+
+---------------------------------------
+
+Episode 178 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:11:38
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 30.70 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.002851 
+
+---------------------------------------
+
+Episode 179 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:12:03
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 27.60 
+episode max | avg | min reward: 0.40 | 0.09 | -0.30 
+T = 0.002709 
+
+---------------------------------------
+
+Episode 180 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:12:27
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 30.40 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.002573 
+
+---------------------------------------
+
+Episode 181 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:12:53
+episode time: 60.68 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 17.70 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.002444 
+
+---------------------------------------
+
+Episode 182 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:13:18
+episode time: 60.92 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 18.00 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.002322 
+
+---------------------------------------
+
+Episode 183 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:13:42
+episode time: 60.91 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 20.20 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.002206 
+
+---------------------------------------
+
+Episode 184 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:14:05
+episode time: 60.71 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 16.50 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.002096 
+
+---------------------------------------
+
+Episode 185 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:14:30
+episode time: 60.68 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 18.90 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.001991 
+
+---------------------------------------
+
+Episode 186 ==> CRASH {-0.20,-0.13,57.16}    04/12/2020 10:14:32
+episode time: 5.24 s (avg step: 0.23 s) 
+episode steps: 23 
+episode reward: -102.40 
+episode max | avg | min reward: 0.00 | -4.65 | -100.00 
+T = 0.001892 
+
+---------------------------------------
+
+Episode 187 ==> CRASH {-0.22,-0.10,58.45}    04/12/2020 10:14:35
+episode time: 7.07 s (avg step: 0.21 s) 
+episode steps: 33 
+episode reward: -106.00 
+episode max | avg | min reward: 0.00 | -3.31 | -100.00 
+T = 0.001797 
+
+---------------------------------------
+
+Episode 188 ==> CRASH {-0.22,-0.11,59.85}    04/12/2020 10:14:38
+episode time: 7.16 s (avg step: 0.21 s) 
+episode steps: 34 
+episode reward: -106.50 
+episode max | avg | min reward: 0.10 | -3.23 | -100.00 
+T = 0.001707 
+
+---------------------------------------
+
+Episode 189 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:15:03
+episode time: 60.63 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 22.60 
+episode max | avg | min reward: 0.40 | 0.08 | -0.30 
+T = 0.001622 
+
+---------------------------------------
+
+Episode 190 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:15:31
+episode time: 60.69 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 22.00 
+episode max | avg | min reward: 0.40 | 0.07 | -0.30 
+T = 0.001541 
+
+---------------------------------------
+
+Episode 191 ==> CRASH {-0.87,-0.11,170.42}    04/12/2020 10:15:40
+episode time: 18.90 s (avg step: 0.21 s) 
+episode steps: 92 
+episode reward: -114.70 
+episode max | avg | min reward: 0.40 | -1.26 | -100.00 
+T = 0.001464 
+
+---------------------------------------
+
+Episode 192 ==> CRASH {-0.20,-0.13,60.23}    04/12/2020 10:15:42
+episode time: 5.18 s (avg step: 0.22 s) 
+episode steps: 24 
+episode reward: -102.40 
+episode max | avg | min reward: 0.00 | -4.45 | -100.00 
+T = 0.001390 
+
+---------------------------------------
+
+Episode 193 ==> CRASH {1.31,-1.21,177.99}    04/12/2020 10:16:02
+episode time: 45.59 s (avg step: 0.20 s) 
+episode steps: 224 
+episode reward: -84.40 
+episode max | avg | min reward: 0.40 | -0.38 | -100.00 
+T = 0.001321 
+
+---------------------------------------
+
+Episode 194 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:16:26
+episode time: 60.69 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: -22.10 
+episode max | avg | min reward: 0.40 | -0.07 | -0.30 
+T = 0.001255 
+
+---------------------------------------
+
+Episode 195 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:16:52
+episode time: 60.69 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 30.00 
+episode max | avg | min reward: 0.40 | 0.10 | -0.30 
+T = 0.001192 
+
+---------------------------------------
+
+Episode 196 ==> CRASH {1.03,-0.86,-46.12}    04/12/2020 10:17:02
+episode time: 23.32 s (avg step: 0.20 s) 
+episode steps: 114 
+episode reward: -103.60 
+episode max | avg | min reward: 0.40 | -0.92 | -100.00 
+T = 0.001133 
+
+---------------------------------------
+
+Episode 197 ==> CRASH {-0.22,-0.13,56.91}    04/12/2020 10:17:04
+episode time: 5.56 s (avg step: 0.21 s) 
+episode steps: 26 
+episode reward: -103.90 
+episode max | avg | min reward: 0.00 | -4.16 | -100.00 
+T = 0.001076 
+
+---------------------------------------
+
+Episode 198 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:17:29
+episode time: 60.59 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 16.70 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.001022 
+
+---------------------------------------
+
+Episode 199 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:17:54
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 18.30 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000971 
+
+---------------------------------------
+
+Episode 200 ==> MAX STEPS PER EPISODE REACHED {300}    04/12/2020 10:18:18
+episode time: 60.70 s (avg step: 0.20 s) 
+episode steps: 300 
+episode reward: 16.60 
+episode max | avg | min reward: 0.40 | 0.06 | -0.30 
+T = 0.000971 
+
+--------------------------------------- 
+
+MAX EPISODES REACHED(200), LEARNING FINISHED ==> 04/12/2020 10:18:18
+Simulation time: 1:43:38  h/m/s 
+Real time: 0:42:10  h/m/s 
+
