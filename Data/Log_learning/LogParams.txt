@@ -1,13 +1,13 @@
 
-SIMULATION START ==> 12/03/2021 16:29:38
+SIMULATION START ==> 16/07/2021 18:02:59
 
 
 Simulation parameters: 
 --------------------------------------- 
 INITIAL POSITION = ( -0.40 , -0.40 , 45.00 ) 
 --------------------------------------- 
-MAX_EPISODES = 50 
-MAX_STEPS_PER_EPISODE = 50 
+MAX_EPISODES = 400 
+MAX_STEPS_PER_EPISODE = 500 
 MIN_TIME_BETWEEN_ACTIONS = 0.00 s 
 --------------------------------------- 
 ALPHA = 0.50 
@@ -27,7 +27,7 @@ CONST_LINEAR_SPEED_TURN = 0.060
 CONST_ANGULAR_SPEED_TURN = 0.400 
 --------------------------------------- 
 
-MAX EPISODES REACHED(50), LEARNING FINISHED ==> 12/03/2021 16:31:01
-Simulation time: 0:6:53  h/m/s 
-Real time: 0:1:22  h/m/s 
+MAX EPISODES REACHED(400), LEARNING FINISHED ==> 16/07/2021 19:57:19
+Simulation time: 9:29:12  h/m/s 
+Real time: 1:54:19  h/m/s 
 

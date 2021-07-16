@@ -1,5 +1,5 @@
 
-SIMULATION START ==> 04/12/2020 22:30:10
+SIMULATION START ==> 16/07/2021 18:02:59
 
 
 Simulation parameters: 
@@ -27,7 +27,7 @@ CONST_LINEAR_SPEED_TURN = 0.060
 CONST_ANGULAR_SPEED_TURN = 0.400 
 --------------------------------------- 
 
-MAX EPISODES REACHED(400), LEARNING FINISHED ==> 05/12/2020 02:41:18
-Simulation time: 9:50:39  h/m/s 
-Real time: 4:11:7  h/m/s 
+MAX EPISODES REACHED(400), LEARNING FINISHED ==> 16/07/2021 19:57:19
+Simulation time: 9:29:12  h/m/s 
+Real time: 1:54:19  h/m/s 
 
