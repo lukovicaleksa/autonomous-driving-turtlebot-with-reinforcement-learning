@@ -51,12 +51,11 @@ def getBestAction(Q_table, state_ind, actions):
     if STATE_SPACE_IND_MIN <= state_ind <= STATE_SPACE_IND_MAX:
         status = 'getBestAction => OK'
         a_ind = np.argmax(Q_table[state_ind,:])
-        print(Q_table[state_ind,:])
         a = actions[a_ind]
     else:
         status = 'getBestAction => INVALID STATE INDEX'
         a = getRandomAction(actions)
-    return ( 2, status )
+
     return ( a, status )
 
 # Select random action from actions
@@ -75,6 +74,7 @@ def epsiloGreedyExploration(Q_table, state_ind, actions, epsilon):
     else:
         status = 'epsiloGreedyExploration => OK'
         a = getRandomAction(actions)
+
     return ( a, status )
 
 # SoftMax Selection

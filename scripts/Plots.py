@@ -390,7 +390,7 @@ def plot_Q_table(log_file_dir):
 
 #plot_softmax_epsilon(DATA_PATH + '/Log_learning_SOFTMAX', DATA_PATH + '/Log_learning_EPSILON')
 #plot_Q_table(DATA_PATH + '/Log_learning_RANDOM')
-#plot_learning(DATA_PATH + '/Log_learning')
+plot_learning(DATA_PATH + '/Log_learning')
 #plot_feedback_control(DATA_PATH + '/Log_feedback_1', DATA_PATH + '/Log_feedback_2', DATA_PATH + '/Log_feedback_3')
 #plot_alpha(DATA_PATH + '/Log_learning_ALPHA_0dot3', DATA_PATH + '/Log_learning_ALPHA_0dot5', DATA_PATH + '/Log_learning_ALPHA_0dot7')
-plot_gamma(DATA_PATH + '/Log_learning_GAMMA_0dot9', DATA_PATH + '/Log_learning_GAMMA_0dot7', DATA_PATH + '/Log_learning_GAMMA_0dot5')
+#plot_gamma(DATA_PATH + '/Log_learning_GAMMA_0dot9', DATA_PATH + '/Log_learning_GAMMA_0dot7', DATA_PATH + '/Log_learning_GAMMA_0dot5')

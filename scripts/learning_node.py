@@ -16,8 +16,8 @@ from Lidar import *
 from Control import *
 
 # Episode parameters
-MAX_EPISODES = 50
-MAX_STEPS_PER_EPISODE = 50
+MAX_EPISODES = 400
+MAX_STEPS_PER_EPISODE = 500
 MIN_TIME_BETWEEN_ACTIONS = 0.0
 
 # Learning parameters

@@ -22,6 +22,10 @@ K_ALPHA = 15
 K_BETA = -3
 V_CONST = 0.1 # [m/s]
 
+# Goal reaching threshold
+GOAL_DIST_THRESHOLD = 0.1 # [m]
+GOAL_ANGLE_THRESHOLD = 15 # [degrees]
+
 # Get theta in [radians]
 def getRotation(odomMsg):
     orientation_q = odomMsg.pose.pose.orientation
@@ -161,17 +165,17 @@ def robotDoAction(velPub, action):
 def robotFeedbackControl(velPub, x, y, theta, x_goal, y_goal, theta_goal):
     # theta goal normalization
     if theta_goal >= pi:
-        theta_goal_norm = theta_goal - 2*pi
+        theta_goal_norm = theta_goal - 2 * pi
     else:
         theta_goal_norm = theta_goal
 
     ro = sqrt( pow( ( x_goal - x ) , 2 ) + pow( ( y_goal - y ) , 2) )
     lamda = atan2( y_goal - y , x_goal - x )
 
-    alpha = (lamda -  theta + pi) % (2*pi) - pi
-    beta = (theta_goal - lamda + pi) % (2*pi) - pi
+    alpha = (lamda -  theta + pi) % (2 * pi) - pi
+    beta = (theta_goal - lamda + pi) % (2 * pi) - pi
 
-    if ro < 0.01 and degrees(abs(theta-theta_goal_norm)) < 5:
+    if ro < GOAL_DIST_THRESHOLD and degrees(abs(theta-theta_goal_norm)) < GOAL_ANGLE_THRESHOLD:
         status = 'Goal position reached!'
         v = 0
         w = 0

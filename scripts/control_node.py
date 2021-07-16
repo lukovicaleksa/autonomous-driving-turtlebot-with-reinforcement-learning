@@ -6,10 +6,6 @@ from time import sleep
 from datetime import datetime
 import matplotlib.pyplot as plt
 
-//TODO: Premestiti nodove u poseban folder
-//TODO: Proveriti zasto control_node ne radi kako treba
-//TODO: Upload poslednju verziju na github
-
 import sys
 DATA_PATH = '/home/maestro/catkin_ws/src/master_rad/Data'
 MODULES_PATH = '/home/maestro/catkin_ws/src/master_rad/scripts'
@@ -33,7 +29,7 @@ GOAL_POSITIONS_X = [ 2.0, 2.0, 0.5, 1, 2]
 GOAL_POSITIONS_Y = [ 1.0, -1.0, -1.9, 2, -1,]
 GOAL_POSITIONS_THETA = [ 25.0, -40.0, -40, 60, -30,]
 
-PATH_IND = 2
+PATH_IND = 4
 
 # Initial & Goal position
 if REAL_ROBOT:
@@ -86,7 +82,7 @@ if __name__ == '__main__':
         robot_in_pos = False
 
         # because of the video recording
-        sleep(5)
+        sleep(1)
 
         # main loop
         while not rospy.is_shutdown():
@@ -166,7 +162,6 @@ if __name__ == '__main__':
                     # Q-learning algorithm
                     else:
                         ( action, status ) = getBestAction(Q_table, state_ind, actions)
-                        print("QLEARNING ACTION ==> %d\n" % action)
                         if not status == 'getBestAction => OK':
                             print('\r\n', status, '\r\n')
 
